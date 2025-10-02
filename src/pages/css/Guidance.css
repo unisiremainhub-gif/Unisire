@@ -1,0 +1,247 @@
+/* About Section */
+
+.about {
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.about h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 16px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.about-info {
+  margin: 2rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
+
+.about-img {
+  width: 20rem;
+  height: 20rem;
+}
+
+.about-img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  object-fit: contain;
+}
+
+.about-info p {
+  margin: 0 2rem;
+  text-align: justify;
+}
+
+/* Team Section */
+
+.team {
+  margin: 20px 0px;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.team h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+.gap {
+  gap: 20px;
+}
+.team-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  width: 18rem;
+  height: 25rem;
+  margin-top: 10px;
+}
+
+.card-img {
+  width: 18rem;
+  height: 12rem;
+}
+
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.card-info button {
+  margin: 2rem 1rem;
+}
+
+.card-name {
+  font-size: 2rem;
+  margin: 10px 0;
+}
+
+.card-role {
+  font-size: 1rem;
+  color: #888;
+  margin: 5px 0;
+}
+
+.card-email {
+  font-size: 1rem;
+  color: #555;
+}
+
+.card {
+  background-color: white;
+  border-radius: 6px;
+  overflow: hidden;
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  width: 29rem;
+  height: 39rem;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.card-img {
+  width: 100%;
+  height: 75%;
+}
+.margin-down {
+  margin-bottom: 5px;
+}
+
+/**/
+.guidanceWrapper {
+  background: #fefefe;
+  padding: 40px;
+}
+
+.guidanceContainer {
+  max-width: 900px;
+  margin: auto;
+}
+
+.guidanceIntroBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.guidanceImage {
+  width: 40%;
+  border-radius: 10px;
+}
+
+.guidanceText {
+  width: 55%;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.guidanceDetailsBox {
+  background: #ececec;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.guidanceFormBox {
+  background: #f9f9f9;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.guidanceInfo {
+  background: #ffeb99;
+  padding: 25px;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.guidanceInputBox {
+  margin-bottom: 15px;
+}
+
+.guidanceInputBox label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.guidanceInputBox input,
+.guidanceInputBox textarea,
+.guidanceInputBox select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.guidanceCheckboxBox {
+  margin-bottom: 15px;
+}
+
+.guidanceCheckbox {
+  margin-right: 10px;
+}
+
+.guidancePricing {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.guidanceSubmitBtn {
+  width: 100%;
+  padding: 12px;
+  background: #28a745;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.margin-bottom-mentorship {
+  margin-bottom: 20px;
+}
+
+.guidanceInputBox label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.guidanceDetailsBox {
+  background: #ececec;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}

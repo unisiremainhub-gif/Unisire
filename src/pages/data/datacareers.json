@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Development Intern",
+    "description": "We are looking for a highly motivated and detail-oriented Frontend Development Intern to join our established team, which has a history of building multiple successful platforms and has now merged them into a single, scalable ecosystem. This internship provides the chance to work on real-world web applications trusted by thousands of learners and gain hands-on experience with cutting-edge frontend technologies.\n\nYou will collaborate closely with UI/UX designers, backend developers, and product managers to create visually appealing, intuitive, and high-performing interfaces. By contributing to a platform refined through years of industry expertise, you will help build responsive, accessible, and interactive components using React.js, HTML, CSS, and JavaScript.\n\nWe encourage creativity, innovation, and the exploration of modern UI/UX trends, animations, and performance optimizations. This is an ideal environment for learning, growth, and contributing to a product ecosystem shaped by proven experience and driven by continuous improvement.",
+    "requirements": [
+      "Basic to intermediate proficiency in React.js, HTML, CSS, and JavaScript",
+      "Understanding of frontend frameworks, state management, and component-based architecture",
+      "Knowledge of responsive design principles and mobile-first development",
+      "Familiarity with RESTful APIs and integrating frontend with backend services",
+      "Basic understanding of Git and version control systems",
+      "Ability to debug issues and optimize performance for speed and accessibility",
+      "Willingness to learn, adapt, and experiment with new technologies",
+      "Strong communication skills and ability to work effectively in a team environment"
+    ],
+    "responsibilities": [
+      "Develop and maintain user-facing features and interactive web components using React.js",
+      "Work closely with UI/UX designers to transform wireframes into functional interfaces",
+      "Optimize applications for fast load times, scalability, and accessibility",
+      "Debug, troubleshoot, and resolve frontend issues to ensure a seamless user experience",
+      "Write clean, reusable, and well-documented code following best practices",
+      "Stay updated with the latest frontend trends and propose innovative solutions",
+      "Contribute to team discussions, code reviews, and UI/UX brainstorming sessions"
+    ],
+    "salary": "Unpaid",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experience": "Fresher",
+    "applicationDeadline": "June 30, 2025"
+  },
+  {
+    "id": 2,
+    "title": "DevOps Engineer",
+    "description": "We are seeking a skilled and innovative DevOps Engineer to join our seasoned team, which has operated multiple technology platforms over the years and has now unified them into a single, refined ecosystem. In this role, you will develop and maintain robust infrastructure solutions that leverage our established systems to enhance deployment processes, automate workflows, and ensure system reliability.\n\nYou will work with cloud technologies, implement CI/CD pipelines, and optimize infrastructure for scalability and performance. Collaborating with development teams, you will ensure seamless deployment and operation of our applications while maintaining security and compliance standards.\n\nThis is an opportunity to innovate within a proven operational environment, optimizing infrastructure for performance and scalability while contributing to the continuous evolution of our technology platform. If you are passionate about DevOps and want to build solutions on a platform with both credibility and ambition, this role is for you.",
+    "requirements": [
+      "1+ years of experience in DevOps or infrastructure management",
+      "Proficiency in cloud platforms such as AWS, Azure, or GCP",
+      "Understanding of containerization technologies like Docker and Kubernetes",
+      "Experience with CI/CD pipeline development and maintenance",
+      "Knowledge of infrastructure as code tools like Terraform or CloudFormation",
+      "Familiarity with monitoring and logging tools for system observability",
+      "Ability to optimize infrastructure for efficiency and scalability",
+      "Experience with scripting languages like Python or Bash",
+      "Strong problem-solving and analytical skills",
+      "Familiarity with security best practices in DevOps workflows"
+    ],
+    "responsibilities": [
+      "Develop, maintain, and optimize CI/CD pipelines for automated deployments",
+      "Manage and scale cloud infrastructure using infrastructure as code principles",
+      "Implement containerization strategies using Docker and orchestration with Kubernetes",
+      "Monitor system performance and ensure high availability and reliability",
+      "Collaborate with development teams to streamline build and deployment processes",
+      "Implement and maintain security measures across the infrastructure",
+      "Troubleshoot and resolve infrastructure issues in production environments",
+      "Stay updated with the latest DevOps practices and incorporate them into workflows"
+    ],
+    "salary": "Salary package (not disclosed)",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experience": "Fresher",
+    "applicationDeadline": "June 30, 2025"
+  },
+  {
+    "id": 3,
+    "title": "Backend Development Intern",
+    "description": "We are looking for a highly motivated Backend Development Intern to join our proven technology team, which has a history of building multiple successful platforms and has now merged them into a single, scalable ecosystem. This internship provides the chance to work on backend systems that support a robust, established audience, gaining hands-on experience with modern web technologies.\n\nYou will collaborate with experienced developers to design, build, and optimize backend services using the MERN stack (MongoDB, Express.js, React.js, Node.js). By joining a platform refined through years of industry practice, you'll learn to develop secure APIs, optimize databases, and implement best practices for scalability and performance.\n\nThis role is perfect for someone passionate about backend development, eager to learn, and excited to contribute to a platform that blends innovation with a proven operational track record.",
+    "requirements": [
+      "Basic to intermediate knowledge of Node.js, Express.js, and MongoDB",
+      "Understanding of the MERN stack and full-stack development principles",
+      "Familiarity with RESTful API development and integration",
+      "Basic knowledge of authentication and authorization (JWT, OAuth, etc.)",
+      "Understanding of database optimization and performance tuning",
+      "Familiarity with Git and version control workflows",
+      "Strong problem-solving skills and ability to debug server-side issues",
+      "Willingness to learn and adapt to new backend technologies"
+    ],
+    "responsibilities": [
+      "Develop and maintain backend services using Node.js, Express.js, and MongoDB",
+      "Design and implement RESTful APIs for frontend-backend communication",
+      "Optimize database queries and ensure efficient data handling",
+      "Implement authentication, authorization, and security best practices",
+      "Debug and troubleshoot backend issues to improve system stability",
+      "Collaborate with frontend developers working with React.js to integrate APIs",
+      "Stay updated with emerging backend technologies and industry trends",
+      "Write clean, maintainable, and well-documented code following best practices"
+    ],
+    "salary": "Unpaid",
+    "location": "Remote",
+    "jobType": "Internship",
+    "experience": "Fresher",
+    "applicationDeadline": "June 30, 2025"
+  },
+  {
+    "id": 4,
+    "title": "Backend Engineer",
+    "description": "We are seeking a highly skilled and innovative Backend Engineer to join our seasoned team, which has operated multiple technology platforms over the years and has now unified them into a single, refined ecosystem. In this role, you will develop backend solutions that leverage our established infrastructure to enhance system performance, ensure scalability, and enable robust application functionality.\n\nYou will work with complex systems, apply advanced backend development techniques, and optimize services for real-world applications such as API development, database management, and system architecture. Collaborating with frontend developers, DevOps engineers, and product managers, you will ensure seamless integration of backend capabilities into our platform.\n\nThis is an opportunity to innovate within a proven operational environment, optimizing backend systems for performance and scalability while contributing to the continuous evolution of our technology platform. If you are passionate about backend development and want to build solutions on a platform with both credibility and ambition, this role is for you.",
+    "requirements": [
+      "1+ years of experience in backend development and system architecture",
+      "Proficiency in Node.js, Express.js, and database technologies",
+      "Understanding of RESTful API development and microservices architecture",
+      "Experience with database optimization and performance tuning",
+      "Knowledge of authentication and authorization mechanisms (JWT, OAuth, etc.)",
+      "Familiarity with cloud-based solutions and deployment strategies",
+      "Ability to optimize backend systems for efficiency and scalability",
+      "Experience with testing frameworks and code quality tools",
+      "Strong problem-solving and analytical skills",
+      "Familiarity with DevOps practices and CI/CD pipelines is a plus"
+    ],
+    "responsibilities": [
+      "Develop, maintain, and optimize backend services and APIs",
+      "Work with database systems to ensure efficient data storage and retrieval",
+      "Optimize backend algorithms for performance, reliability, and scalability",
+      "Implement security measures and authentication/authorization systems",
+      "Collaborate with frontend developers to integrate backend services",
+      "Monitor and maintain deployed services, ensuring continuous performance improvements",
+      "Stay updated with the latest backend advancements and incorporate them into development",
+      "Work on system architecture design and implementation for scalable applications"
+    ],
+    "salary": "Salary package (not disclosed)",
+    "location": "Remote",
+    "jobType": "Full-time",
+    "experience": "Experience required",
+    "applicationDeadline": "June 30, 2025"
+  }
+]

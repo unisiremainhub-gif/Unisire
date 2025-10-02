@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "tag": "free",
+    "title": "Interview Preparation Platform",
+    "description": "Comprehensive interview practice with common technical and HR questions, instant feedback, and confidence-building tools for your next opportunity.",
+    "date": "Available Now",
+    "type": "platform",
+    "category": "Interview Prep",
+    "waitlist": "1500+ joined",
+    "status": "Active",
+    "points": [
+      "Technical & HR question bank",
+      "Instant performance feedback",
+      "Communication skill analysis"
+    ],
+    "likes": 289,
+    "dislikes": 11,
+    "userReaction": null
+  },
+  {
+    "id": 2,
+    "tag": "premium",
+    "title": "Professional Resume Builder",
+    "description": "Create ATS-optimized, professional resumes with industry-specific templates and expert guidance to showcase your skills and achievements effectively.",
+    "date": "Beta Access",
+    "type": "builder",
+    "category": "Resume Building",
+    "waitlist": "1100+ joined",
+    "status": "Beta",
+    "points": [
+      "ATS-optimized templates",
+      "Industry-specific guidance",
+      "Professional formatting tools"
+    ],
+    "likes": 234,
+    "dislikes": 7,
+    "userReaction": null
+  },
+  {
+    "id": 3,
+    "tag": "premium",
+    "title": "Expert Career Mentorship",
+    "description": "One-on-one guidance from experienced industry professionals offering personalized career advice, growth strategies, and career path planning.",
+    "date": "Monthly Sessions",
+    "type": "mentorship",
+    "category": "Career Guidance",
+    "waitlist": "900+ joined",
+    "status": "Ongoing",
+    "points": [
+      "Personalized career guidance",
+      "Industry expert sessions",
+      "Career growth planning"
+    ],
+    "likes": 198,
+    "dislikes": 6,
+    "userReaction": null
+  },
+  {
+    "id": 4,
+    "tag": "free",
+    "title": "Online Assignments Hub",
+    "description": "Access a wide range of practice assignments and real-world projects to enhance your skills and prepare for technical interviews and assessments.",
+    "date": "Ready to Use",
+    "type": "platform",
+    "category": "Skill Development",
+    "waitlist": "1300+ joined",
+    "status": "Active",
+    "points": [
+      "Real-world projects",
+      "Skill-based assignments",
+      "Instant evaluation system"
+    ],
+    "likes": 267,
+    "dislikes": 9,
+    "userReaction": null
+  }
+]

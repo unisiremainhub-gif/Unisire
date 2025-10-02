@@ -1,0 +1,99 @@
+/* Form group styling */
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Readonly input styling */
+.readonly-input {
+  background: #f8f9fa !important;
+  cursor: not-allowed;
+  border: 1px solid #e9ecef;
+  color: #6c757d;
+}
+
+/* Form buttons container */
+.form-buttons {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.form-buttons button {
+  flex: 1;
+}
+
+.cancel-button {
+  background: #6c757d;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.cancel-button:hover:not(:disabled) {
+  background: #5a6268;
+}
+
+.cancel-button:disabled {
+  background: #a0a4a8;
+  cursor: not-allowed;
+}
+
+/* Form footer */
+.form-footer {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e9ecef;
+}
+
+.privacy-note {
+  font-size: 1.1rem;
+  color: #6c757d;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Status styling */
+.status-upcoming {
+  color: #ff6b35;
+  font-weight: 600;
+}
+
+.status-launching {
+  color: #17a2b8;
+  font-weight: 600;
+}
+
+/* .status-active {
+  color: #28a745;
+  font-weight: 600;
+} */
+
+/* Error message styling */
+.error-message {
+  color: #dc3545;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+/* Form header */
+.form-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-header h4 {
+  color: #333;
+  margin-bottom: 0.5rem;
+}

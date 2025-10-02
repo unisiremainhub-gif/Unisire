@@ -1,0 +1,211 @@
+.container-contactus {
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
+  width: 90%;
+  /* background: white; */
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  /* background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px); /* Adds blur behind */
+  /*-webkit-backdrop-filter: blur(10px); Safari support */
+  background-image: url(../../main.png);
+}
+.container-contactus-parent {
+  background-image: url(../../main.png);
+}
+.shape-contact-1 {
+  top: -106px;
+  right: 190px;
+}
+.shape-contact-2 {
+  bottom: -100px;
+  left: 0px;
+  width: 200px;
+  height: 200px;
+}
+.shape-contact-3 {
+  position: absolute;
+  top: 450px;
+  left: 50px;
+  width: 120px;
+  height: 120px;
+  background-color: #d1e0ff;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+.shape-contact-4 {
+  position: absolute;
+  bottom: 150px;
+  right: 100px;
+  width: 150px;
+  height: 80px;
+  background-color: #e6f7ff;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  z-index: -1;
+}
+
+.shape-contact-5 {
+  position: absolute;
+  top: 250px;
+  right: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: #ffedf0;
+  transform: rotate(45deg);
+  border-radius: 20px;
+  z-index: -1;
+}
+
+.contactus-container {
+  display: flex;
+  background-color: #f5f7ff;
+  /* z-index: -2; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* height: 100vh; */
+  /* background-color: #f8f9fa; */
+  font-family: Arial, sans-serif;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  position: relative;
+  /* background-image: url(../../main.png); */
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+}
+.contact-info {
+  flex: 1;
+}
+
+.contact-info h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.support-link {
+  display: inline-block;
+  margin: 10px 0;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.support-link:hover {
+  text-decoration: underline;
+}
+
+.info-sections div {
+  border-radius: 10px;
+  /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+   */
+  /* border: 0.1px solid black; */
+  border: 0.5px #666 solid;
+  padding: 25px;
+}
+
+.info-sections h3 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.contactus-main .contact-form {
+  margin-top: 40px;
+  margin-bottom: 70px;
+  flex: 1;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  /* box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05); */
+  border-radius: 10px;
+  /* box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); */
+  border: 0.5px #666 solid;
+}
+.contact-us-heading {
+  font-size: 21px;
+}
+.contactus-main .contact-form h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contactus-main .contact-form p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.contactus-main form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contactus-main .input-group {
+  display: flex;
+  gap: 10px;
+}
+
+.contactus-main input,
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.contactus-main textarea {
+  resize: none;
+  height: 80px;
+}
+
+.contactus-main button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.contactus-main button:hover {
+  background-color: #0056b3;
+}
+
+.contactus-main .terms {
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.contactus-main .terms a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contactus-main .terms a:hover {
+  text-decoration: underline;
+}
+
+.career-requirements {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.guidanceInputBox label {
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 14px;
+}

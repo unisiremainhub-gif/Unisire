@@ -1,0 +1,385 @@
+[
+  {
+    "id": 1,
+    "resumeFilter": "Product Based Company",
+    "likes": 143,
+    "dislikes": 3,
+    "experienceLevel": "Fresher",
+    "userReaction": null,
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743825849/one_page-0001_ihysp5.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743826994/one_page-0002_cseo3x.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Paytm",
+    "paragraph": "This ATS-optimized resume showcases a strong profile in AI/ML and backend development. It highlights a Computer Science degree and key projects in fraud detection and scalable systems. The format is clean and structured, perfectly tailored for fintech and top tech company applications.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science Engineering from Amity University with a CGPA of 9.2.",
+      "✅ He successfully secured a Software Engineer position at Paytm, specializing in scalable systems, AI-powered analytics, and cloud-native applications.",
+      "✅ His resume achieved an ATS score of 74, making it highly optimized for job applications.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Paytm and other leading firms.",
+      "✅ Follows a structured, professional format with a strong emphasis on AI/ML, backend development, and DevOps.",
+      "✅ A perfect reference resume to understand what works in AI, cloud computing, and fintech job applications.",
+      "✅ Includes extensive project experience in AI-powered fraud detection, chatbots, and scalable payment systems.",
+      "✅ An ideal reference resume to craft your own winning application in AI, software engineering, and fintech domains."
+    ]
+  },
+  {
+    "id": 2,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827095/two_page-0001_ihjip7.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743826994/one_page-0002_cseo3x.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Adobe",
+    "paragraph": "This resume effectively demonstrates expertise in front-end technologies and UI/UX design. It features a strong academic record from a premier institute and impactful projects in web applications. Its high ATS score makes it a great template for securing roles in product-based companies.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science Engineering from IIT Ropar with a CGPA of 9.1.",
+      "✅ He successfully secured a Software Engineer position at Adobe, specializing in UI/UX development and JavaScript frameworks.",
+      "✅ His resume achieved an ATS score of 78, making it highly optimized for job applications.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Adobe and other leading firms.",
+      "✅ Follows a structured, professional format with a strong emphasis on front-end development, UI/UX, and scalable web applications.",
+      "✅ A perfect reference resume to understand what works in UI/UX design, web technologies, and open-source contributions.",
+      "✅ Includes extensive project experience in accessible UI component libraries, real-time analytics dashboards, and high-performance web applications.",
+      "✅ An ideal reference resume to craft your own winning application in UI/UX, front-end development, and design engineering."
+    ]
+  },
+  {
+    "id": 3,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827288/three_page-0001_zvpajj.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827360/three_page-0002_jdertd.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Cisco",
+    "paragraph": "Focused on networking and security, this resume is ideal for roles in infrastructure and cloud computing. It highlights a strong foundation from a top NIT and relevant projects in network security. The professional layout is designed to appeal to core networking and IT giants.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science Engineering from NIT Odisha with a CGPA of 9.2.",
+      "✅ He successfully secured a Software Engineer position at Cisco, specializing in network security, cloud computing, and software-defined networking.",
+      "✅ His resume achieved an ATS score of 67, making it highly optimized for job applications.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Cisco and other leading firms.",
+      "✅ Follows a structured, professional format with a strong emphasis on networking technologies, cybersecurity, and cloud infrastructure.",
+      "✅ A perfect reference resume to understand what works in network security, cloud-native networking, and SDN automation.",
+      "✅ Includes extensive project experience in AI-powered network security systems, IoT-based smart traffic management, and cloud-based networking solutions.",
+      "✅ An ideal reference resume to craft your own winning application in networking, cybersecurity, and cloud computing domains."
+    ]
+  },
+  {
+    "id": 4,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827426/four_page-0001_pvswmm.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827460/four_page-0002_oljpqt.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Salesforce",
+    "paragraph": "This resume exemplifies excellence in cloud computing and full-stack enterprise development. With a stellar academic record from IIT, it showcases projects in CRM and API development. It's a benchmark for anyone targeting roles in SaaS and cloud-based solution companies.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science Engineering from IIT Delhi with a CGPA of 9.4.",
+      "✅ He successfully secured a Software Engineer position at Salesforce, specializing in cloud computing, full-stack development, and scalable enterprise applications.",
+      "✅ His resume achieved an ATS score of 78, making it highly optimized for job applications.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Salesforce and other leading firms.",
+      "✅ Follows a structured, professional format with a strong emphasis on backend development, cloud architecture, and system design.",
+      "✅ A perfect reference resume to understand what works in cloud-based enterprise applications, API development, and microservices.",
+      "✅ Includes extensive project experience in AI-powered market analysis, automated CRM dashboards, and enterprise event management platforms.",
+      "✅ An ideal reference resume to craft your own winning application in cloud computing, full-stack development, and system architecture."
+    ]
+  },
+  {
+    "id": 5,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827502/five_page-0001_lfr29n.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827532/five_page-0002_z4j53r.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Flipkart",
+    "paragraph": "This resume is a prime example for backend and cloud engineering aspirants. It highlights tangible achievements like optimizing APIs and reducing deployment time. With a high ATS score, it's perfectly structured for e-commerce and fast-paced tech environments.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science from Vellore Institute of Technology (VIT) with a CGPA of 9.1.",
+      "✅ She secured a Software Engineer internship at Flipkart, where she optimized high-throughput APIs and reduced deployment time by 50%.",
+      "✅ Her resume achieved an ATS score of 80, making it highly optimized for job applications.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Flipkart, Walmart, and other leading firms.",
+      "✅ Highlights strong backend development skills with expertise in microservices, REST APIs, and scalable distributed systems.",
+      "✅ A great reference resume for backend development, cloud computing, and system optimization roles.",
+      "✅ Includes project experience in AI-powered debugging tools, scalable e-commerce platforms, and AI-driven inventory management systems.",
+      "✅ An ideal reference resume to craft your own winning application for high-performance backend and cloud engineering roles."
+    ]
+  },
+  {
+    "id": 6,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827571/six_page-0001_igcdh5.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827615/six_page-0002_tya6re.webp",
+    "resumeHeading": "Resume That Helped Land a Job at NVIDIA",
+    "paragraph": "Tailored for high-performance computing, this resume showcases deep expertise in GPU programming and AI acceleration. It features projects in ray tracing and AI simulations, making it ideal for research and development roles in cutting-edge tech companies.",
+    "resumePoints": [
+      "✅ This is the resume of a candidate who completed B.Tech in Computer Science from Thapar Institute of Engineering and Technology (TIET) with a CGPA of 9.2.",
+      "✅ He secured a Software Engineer position at NVIDIA, demonstrating expertise in GPU programming, AI acceleration, and parallel computing.",
+      "✅ His resume achieved an ATS score of 82, making it highly optimized for job applications in AI, deep learning, and high-performance computing.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like NVIDIA, Google, and other leading firms.",
+      "✅ Highlights strong skills in CUDA, OpenGL, deep learning model optimization, and AI-driven rendering techniques.",
+      "✅ A great reference resume for roles in GPU programming, AI research, and high-performance computing.",
+      "✅ Includes project experience in AI-powered super-resolution, real-time ray tracing, physics-based AI simulations, and GPU-accelerated computing.",
+      "✅ An ideal reference resume to craft your own winning application for AI, deep learning, and GPU computing roles."
+    ]
+  },
+  {
+    "id": 7,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827657/seven_page-0001_pp6fwx.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827701/seven_page-0002_lokhay.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Wipro",
+    "paragraph": "This resume is a solid reference for backend development and automation roles in IT services. It demonstrates practical skills in Java, Spring Boot, and cloud integration. It's well-structured for candidates targeting established tech consulting firms.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Analyst at Wipro with expertise in backend development and automation.",
+      "✅ He completed B.Tech in Computer Science from Shri Govindram Seksaria Institute of Technology and Science (SGSITS) with a CGPA of 8.9.",
+      "✅ His resume achieved an ATS score of 64, making it highly optimized for job applications in backend development and system optimization.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies like Wipro, Tech Mahindra, and other leading firms.",
+      "✅ Highlights strong skills in Java, Spring Boot, SQL, API development, cloud computing, and automation.",
+      "✅ A great reference resume for roles in software analysis, backend engineering, and enterprise application development.",
+      "✅ Includes project experience in smart fleet management, AI-powered task management, and personal finance tracking.",
+      "✅ An ideal reference resume to craft your own winning application for software development, cloud integration, and backend engineering roles."
+    ]
+  },
+  {
+    "id": 8,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827734/eight_page-0001_va97nd.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827758/eight_page-0002_nr1ukf.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Morgan Stanley",
+    "paragraph": "This resume is expertly crafted for the fintech and quantitative finance sector. It highlights proficiency in Java, C++, and financial algorithms. The projects in market analytics and risk prediction are highly relevant for top investment banks and financial institutions.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at Morgan Stanley specializing in financial technology and distributed systems.",
+      "✅ He completed B.Tech in Computer Science from Vellore Institute of Technology (VIT) with a CGPA of 9.1.",
+      "✅ His resume achieved an ATS score of 71, making it highly optimized for roles in financial software engineering and trading systems.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top financial firms like Morgan Stanley and FICO.",
+      "✅ Highlights strong skills in Java, C++, SQL, financial technologies, and algorithmic trading.",
+      "✅ A great reference resume for roles in financial technology, algorithmic trading, and risk management software development.",
+      "✅ Includes project experience in real-time market analytics, credit risk prediction, and automated trading bots.",
+      "✅ An ideal reference resume to craft your own winning application for fintech, quantitative development, and trading system engineering roles."
+    ]
+  },
+  {
+    "id": 9,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827792/nine_page-0001_stlfy8.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827792/nine_page-0001_stlfy8.webp",
+    "resumeHeading": "Resume That Helped Land a Job at TCS",
+    "paragraph": "A strong all-rounder resume for software engineering roles in major IT consultancies. It demonstrates balanced skills in full-stack development, system design, and problem-solving. Its high ATS score confirms its effectiveness for large-scale IT recruitment processes.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at TCS Prime with expertise in Java, C++, and Web Development.",
+      "✅ He completed B.Tech in Computer Science from Delhi Technological University (DTU) with a CGPA of 8.7.",
+      "✅ His resume achieved an ATS score of 77, making it highly optimized for software engineering and backend development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by major IT companies like TCS.",
+      "✅ Highlights strong skills in full-stack development, system design, and problem-solving.",
+      "✅ A great reference resume for roles in software engineering, web development, and scalable application design.",
+      "✅ Includes project experience in bug tracking systems, task management apps, and university social platforms.",
+      "✅ An ideal reference resume to craft your own winning application for TCS, IT consultancies, and full-stack developer roles."
+    ]
+  },
+  {
+    "id": 10,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827847/ten_page-0001_xr2qbf.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9fsfn/image/upload/v1743827880/ten_page-0002_dhyhup.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Infosys",
+    "paragraph": "This resume excels in showcasing full-stack and mobile development capabilities. With an excellent ATS score, it highlights projects in health tech and productivity apps. It's an ideal template for candidates applying to leading IT services and product companies.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at Infosys with expertise in Web & Mobile Development, Data Structures, and Problem Solving.",
+      "✅ She completed B.Tech in Computer Science from Lovely Professional University (LPU) with a CGPA of 8.9.",
+      "✅ Her resume achieved an ATS score of 81, making it highly optimized for software engineering and full-stack development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by major IT companies like Infosys.",
+      "✅ Highlights strong skills in full-stack web and mobile development, system design, and backend optimization.",
+      "✅ A great reference resume for roles in software engineering, full-stack development, and scalable application design.",
+      "✅ Includes project experience in AI-powered health monitoring, productivity mobile apps, and job search platforms.",
+      "✅ An ideal reference resume to craft your own winning application for Infosys, IT consultancies, and mobile/web development roles."
+    ]
+  },
+  {
+    "id": 11,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827916/eleven_page-0001_hls1yc.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827946/eleven_page-0002_d1qgo0.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Google",
+    "paragraph": "This resume is a benchmark for top-tier tech companies, boasting an exceptional ATS score. It highlights a strong foundation in algorithms, system design, and open-source contributions. The projects demonstrate an ability to handle scalable, full-stack applications effectively.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at Google with expertise in Data Structures, Algorithms, and System Design.",
+      "✅ He completed B.Tech in Computer Science from Netaji Subhas University of Technology (NSUT) with a CGPA of 9.3.",
+      "✅ His resume achieved an ATS score of 84, making it highly optimized for software engineering and backend development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top-tier tech companies like Google and Adobe.",
+      "✅ Highlights strong skills in full-stack development, cloud computing, scalable system design, and open-source contributions.",
+      "✅ A great reference resume for roles in software engineering, cloud solutions architecture, and large-scale system design.",
+      "✅ Includes project experience in e-commerce mobile apps, open-source development, and Java-based productivity software.",
+      "✅ An ideal reference resume to craft your own winning application for Google, Adobe, and other top tech companies."
+    ]
+  },
+  {
+    "id": 12,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743827982/twelve_page-0001_ntgdtg.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828017/twelve_page-0002_zb15p0.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Google",
+    "paragraph": "Focused on cloud and AI, this resume from an IIT graduate is tailored for elite tech roles. It showcases deep expertise in Kubernetes, distributed systems, and AI applications. Its very high ATS score reflects its optimal structure for highly competitive positions.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at Google with expertise in AI, Scalable Systems, and Cloud Technologies.",
+      "✅ He completed B.Tech in Computer Science from IIT Bombay with a CGPA of 9.4.",
+      "✅ His resume achieved an ATS score of 86, making it highly optimized for cloud computing, AI, and backend roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by leading tech firms like Google and Amazon.",
+      "✅ Highlights strong skills in Google Cloud, Kubernetes, AI-powered applications, and distributed systems.",
+      "✅ A great reference resume for software engineering roles in cloud computing, DevOps, and AI-based automation.",
+      "✅ Includes project experience in AI-powered resume evaluation, cloud DevOps automation, and scalable video streaming.",
+      "✅ An ideal reference resume to craft your own winning application for Google, Amazon, and other top-tier tech companies."
+    ]
+  },
+  {
+    "id": 13,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828048/thirteen_page-0001_onopli.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828073/thirteen_page-0002_ftsfwx.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Microsoft",
+    "paragraph": "This resume demonstrates a strong command of Azure cloud services and AI-driven development. With an impressive ATS score, it highlights projects in DevOps and coding assistants. It's a perfect model for targeting roles in major cloud platform companies.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer at Microsoft with expertise in AI, Cloud Computing, and Distributed Systems.",
+      "✅ He completed B.E. in Computer Science from BITS Pilani with a CGPA of 9.1.",
+      "✅ His resume achieved an ATS score of 88, making it highly optimized for cloud computing, AI, and software engineering roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech firms like Microsoft and Amazon.",
+      "✅ Highlights strong skills in Microsoft Azure, AI-driven applications, DevOps automation, and scalable enterprise solutions.",
+      "✅ A great reference resume for software engineering roles in cloud computing, AI, and backend development.",
+      "✅ Includes project experience in AI-powered coding assistants, cloud-based DevOps automation, and enterprise communication tools.",
+      "✅ An ideal reference resume to craft your own winning application for Microsoft, Amazon, and other top-tier tech companies."
+    ]
+  },
+  {
+    "id": 14,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828106/fourteen_page-0001_vqk55c.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828138/fourteen_page-0002_kqjqat.webp",
+    "resumeHeading": "Resume That Helped Land a Job at SAP",
+    "paragraph": "Specializing in enterprise software, this resume showcases expertise in SAP Fiori and cloud microservices. It effectively bridges full-stack development with specific ERP platform skills. This makes it highly valuable for software companies focused on business solutions.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Developer at SAP Labs with expertise in Full Stack Development, Cloud Computing, and Backend Optimization.",
+      "✅ He completed B.Tech in Computer Science from Chandigarh University with a CGPA of 8.9.",
+      "✅ His resume achieved an ATS score of 80, making it highly optimized for enterprise software and cloud computing roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top enterprise software companies like SAP and AWS.",
+      "✅ Highlights strong skills in Spring Boot, SAP Fiori, AWS, Google Cloud, and microservices development.",
+      "✅ A great reference resume for software development roles in enterprise applications, cloud platforms, and full-stack development.",
+      "✅ Includes project experience in ERP systems, cloud-based inventory management, and SAP Fiori-based HR portals.",
+      "✅ An ideal reference resume to craft your own winning application for SAP Labs, AWS, and enterprise software companies."
+    ]
+  },
+  {
+    "id": 15,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828175/fifteen_page-0001_a37gfy.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828206/fifteen_page-0002_durewl.webp",
+    "resumeHeading": "Resume That Helped Land a Job at MakeMyTrip",
+    "paragraph": "This resume is a standout example for front-end and UI/UX focused roles. It boasts an exceptional ATS score and showcases a wide array of modern technologies like React, Flutter, and cloud platforms. The travel-related projects make it highly relevant for the industry.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer specializing in web and mobile app development, placed at MakeMyTrip.",
+      "✅ He completed B.Tech in Computer Science from Nirma University, Gujarat, with a CGPA of 8.6.",
+      "✅ His resume achieved an ATS score of 90, making it highly optimized for Frontend, Full-Stack, and UI/UX development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies hiring for Web and Mobile Development roles.",
+      "✅ Highlights strong skills in JavaScript, TypeScript, React.js, Next.js, Flutter, Firebase, Django, and Cloud platforms like AWS and Google Cloud.",
+      "✅ A great reference resume for engineers applying for roles in Frontend, UI/UX, and Full-Stack Development.",
+      "✅ Includes project experience in travel companion apps, hotel booking platforms, and performance-optimized UI development.",
+      "✅ An ideal reference resume to craft your own winning application for high-growth Web and Mobile Development roles."
+    ]
+  },
+  {
+    "id": 16,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828476/sixteen_page-0001_qqdik9.jpg",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828484/sixteen_page-0002_xzzkpr.jpg",
+    "resumeHeading": "Resume That Helped Land a Job at HCL",
+    "paragraph": "This resume effectively demonstrates proficiency in the full modern web and mobile development stack. It highlights practical project experience in e-commerce and UI optimization. It's a strong, well-rounded template for software engineering roles in IT services.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer placed at HCL, specializing in frontend and full-stack web & mobile app development.",
+      "✅ He completed B.Tech in Computer Science from LNCT University with a CGPA of 8.5.",
+      "✅ His resume achieved an ATS score of 84, making it highly optimized for web and mobile development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by companies hiring for frontend and full-stack engineering roles.",
+      "✅ Highlights strong skills in React.js, Next.js, Flutter, Node.js, Firebase, and cloud technologies like AWS and Google Cloud.",
+      "✅ A great reference resume for software engineering roles in startups, IT services, and tech companies.",
+      "✅ Includes project experience in e-commerce mobile apps, job-finding platforms, and UI/UX optimization.",
+      "✅ An ideal reference resume to craft your own winning application for roles in web, mobile, and full-stack development."
+    ]
+  },
+  {
+    "id": 17,
+    "resumeFilter": "Service Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828523/seventeen_page-0001_cjo6ns.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828525/seventeen_page-0002_zqjl7s.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Cognizant",
+    "paragraph": "Focused on mobile-first development, this resume showcases strong skills in Flutter and cross-platform apps. It includes AI-powered project experience, adding a layer of modern technical depth. It's tailored for roles that value mobile development and practical problem-solving.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer placed at Cognizant, specializing in Data Structures, Algorithms, and Full-Stack Mobile Development.",
+      "✅ She completed B.Tech in Computer Science from Heritage Institute of Technology, Kolkata, with a CGPA of 8.6.",
+      "✅ Her resume achieved an ATS score of 67, making it highly optimized for full-stack and mobile development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by companies hiring for software engineering and mobile app development roles.",
+      "✅ Highlights strong skills in Flutter, React Native, Node.js, Express.js, Firebase, and cloud platforms like AWS & Google Cloud.",
+      "✅ A great reference resume for software engineering roles in IT services, startups, and product-based companies.",
+      "✅ Includes project experience in AI-powered task management, an e-commerce mobile app, and a chatbot for customer support.",
+      "✅ An ideal reference resume to craft your own winning application for roles in full-stack, mobile, and AI-driven development."
+    ]
+  },
+  {
+    "id": 18,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828566/eighteen_page-0001_zkd6zv.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828568/eighteen_page-0002_mypefk.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Zoho",
+    "paragraph": "This resume presents a robust full-stack profile with strong AI project experience. It boasts a very high ATS score, indicating excellent optimization. The blend of programming languages and frameworks makes it versatile for software roles in product companies.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer placed at Zoho Corporation, specializing in Full-Stack Development and AI-driven applications.",
+      "✅ She completed B.Tech in Computer Science from Vellore Institute of Technology (VIT), Chennai, with a CGPA of 8.7.",
+      "✅ Her resume achieved an ATS score of 89, making it highly optimized for software engineering and full-stack development roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by companies hiring for software engineering, full-stack development, and AI-based projects.",
+      "✅ Highlights strong skills in Java, C++, Python, React, Angular, Node.js, Express.js, and cloud platforms like AWS & Google Cloud.",
+      "✅ A great reference resume for software engineering roles in IT services, startups, and product-based companies.",
+      "✅ Includes project experience in AI-powered task management, an online learning platform, and a chatbot for customer support.",
+      "✅ An ideal reference resume to craft your own winning application for roles in full-stack, AI, and cloud-based development."
+    ]
+  },
+  {
+    "id": 19,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828600/nineteen_page-0001_jn0uga.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828601/nineteen_page-0002_thelhi.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Ericsson",
+    "paragraph": "This resume effectively bridges software development with networking and cloud infrastructure. It highlights unique project experience in algorithm visualization and network monitoring. It's a specialized template for roles in telecom and networking-focused tech firms.",
+    "resumePoints": [
+      "✅ This is the resume of a Software Engineer placed at Ericsson, specializing in Networking, Cloud, and Software Development.",
+      "✅ He completed B.Tech in Computer Science from Amity University, Jalandhar, with a CGPA of 8.7.",
+      "✅ His resume achieved an ATS score of 66, making it highly optimized for networking and software engineering roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by companies hiring for software development, cloud networking, and cybersecurity roles.",
+      "✅ Highlights strong skills in Java, C, Python, JavaScript, React.js, Node.js, Express.js, and networking tools like Cisco Packet Tracer.",
+      "✅ A great reference resume for software engineers applying for roles in networking, cloud computing, and cybersecurity domains.",
+      "✅ Includes project experience in algorithm visualization, intercity banking networks, and network traffic monitoring.",
+      "✅ An ideal reference resume to craft your own winning application for roles in software development, network security, and cloud-based solutions."
+    ]
+  },
+  {
+    "id": 20,
+    "resumeFilter": "Product Based Company",
+    "experienceLevel": "Fresher",
+    "imageLink1": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828640/twenty_page-0001_vliqeb.webp",
+    "imageLink2": "https://res.cloudinary.com/dpid9gsfn/image/upload/v1743828641/twenty_page-0002_utgwxp.webp",
+    "resumeHeading": "Resume That Helped Land a Job at Uber",
+    "paragraph": "A highly specialized resume for DevOps and Blockchain engineering roles. It combines expertise in automation tools, microservices, and decentralized applications. The relevant project in ride-sharing makes it uniquely suited for a company like Uber.",
+    "resumePoints": [
+      "✅ This is the resume of a Python DevOps Engineer placed at Uber, specializing in Blockchain, Cloud, and Microservices.",
+      "✅ He completed B.Tech in Computer Science from Vellore Institute of Technology (VIT) with a CGPA of 9.0.",
+      "✅ His resume achieved an ATS score of 84, making it highly optimized for DevOps, Blockchain, and Backend Engineering roles.",
+      "✅ Designed to pass through Applicant Tracking Systems (ATS) used by top tech companies hiring for Python DevOps and Blockchain Engineering roles.",
+      "✅ Highlights strong skills in Python, DevOps (Kubernetes, Docker, Jenkins, Terraform), Blockchain (Ethereum, Hyperledger), and Backend (Django, Flask, FastAPI).",
+      "✅ A great reference resume for engineers applying for roles in DevOps, Blockchain, and Cloud Infrastructure.",
+      "✅ Includes project experience in decentralized ride-sharing, AI-powered fraud detection, automated CI/CD pipelines, and serverless ride tracking.",
+      "✅ An ideal reference resume to craft your own winning application for high-performance DevOps and Blockchain roles."
+    ]
+  }
+]

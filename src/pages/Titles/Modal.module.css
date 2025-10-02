@@ -1,0 +1,348 @@
+/* Modal Overlay */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(15, 23, 42, 0.65);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.modalOverlay.show {
+  opacity: 1;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.modalOverlay.hide {
+  opacity: 0;
+}
+
+/* Modal Container */
+.modal {
+  background: #fff;
+  padding: 28px 25px;
+  border-radius: 16px;
+  width: 92%;
+  max-width: 480px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+  transform: translateY(40px) scale(0.95);
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+}
+
+.modalShow {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+  animation: modalSlideUp 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.modalHide {
+  transform: translateY(-40px) scale(0.95);
+  opacity: 0;
+}
+
+/* Modal Header */
+.modalHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.modalTitle {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #222;
+  line-height: 1.3;
+}
+
+.modalClose {
+  background: transparent;
+  border: none;
+  font-size: 28px;
+  color: #666;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.modalClose:hover {
+  background: #f8f9fa;
+  color: #000;
+  transform: rotate(90deg);
+}
+
+/* Modal Body */
+.modalBody {
+  margin-bottom: 25px;
+}
+
+.modalMessage {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+  margin: 0;
+  text-align: center;
+  font-weight: 400;
+}
+
+/* Actions */
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+/* Base Button Styles */
+.btn {
+  padding: 12px 28px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 100px;
+  position: relative;
+  overflow: hidden;
+  font-family: inherit;
+}
+
+.btn:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+/* Cancel Button */
+.cancelBtn {
+  background: #6c757d;
+  color: white;
+  box-shadow: 0 2px 8px rgba(108, 117, 125, 0.2);
+}
+
+.cancelBtn:hover {
+  background: #5a6268;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(108, 117, 125, 0.3);
+}
+
+.cancelBtn:active {
+  transform: translateY(0);
+}
+
+/* Confirm Button */
+.confirmBtn {
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.25);
+}
+
+.confirmBtn:hover {
+  background: linear-gradient(135deg, #0056b3, #004085);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
+}
+
+.confirmBtn:active {
+  transform: translateY(0);
+}
+
+/* Ripple Effect */
+.rippleEffect {
+  position: relative;
+  overflow: hidden;
+}
+
+.ripple {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.6);
+  transform: scale(0);
+  animation: rippleAnimation 0.6s linear;
+  pointer-events: none;
+}
+
+@keyframes rippleAnimation {
+  to {
+    transform: scale(4);
+    opacity: 0;
+  }
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes modalSlideUp {
+  0% {
+    transform: translateY(40px) scale(0.95);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(-10px) scale(1.02);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes confettiRain {
+  0% {
+    transform: translateY(-100px) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(1000px) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .modal {
+    width: 95%;
+    padding: 24px 20px;
+    margin: 20px;
+    max-width: none;
+  }
+
+  .modalHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .modalClose {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+
+  .modalTitle {
+    font-size: 20px;
+    padding-right: 40px;
+  }
+
+  .modalMessage {
+    font-size: 15px;
+    text-align: left;
+  }
+
+  .actions {
+    flex-direction: column-reverse;
+    gap: 10px;
+  }
+
+  .btn {
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .modal {
+    padding: 20px 16px;
+    border-radius: 12px;
+  }
+
+  .modalTitle {
+    font-size: 18px;
+  }
+
+  .modalMessage {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .modalOverlay,
+  .modal,
+  .btn {
+    transition: none;
+    animation: none;
+  }
+
+  .btn:hover {
+    transform: none;
+  }
+
+  .modalClose:hover {
+    transform: none;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .modal {
+    background: #1a1a1a;
+    color: #ffffff;
+  }
+
+  .modalTitle {
+    color: #ffffff;
+  }
+
+  .modalMessage {
+    color: #cccccc;
+  }
+
+  .modalHeader {
+    border-bottom-color: #333;
+  }
+
+  .modalClose {
+    color: #999;
+  }
+
+  .modalClose:hover {
+    background: #333;
+    color: #fff;
+  }
+}
+
+/* High contrast support */
+@media (prefers-contrast: high) {
+  .modal {
+    border: 2px solid #000;
+  }
+
+  .btn {
+    border: 2px solid;
+  }
+
+  .cancelBtn {
+    border-color: #000;
+  }
+
+  .confirmBtn {
+    border-color: #0056b3;
+  }
+}

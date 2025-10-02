@@ -1,0 +1,101 @@
+.resume-content ul {
+  list-style: none;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.resume-content ul li {
+  margin-bottom: 4px;
+}
+.resumedetail-ul-li-i {
+  font-size: 1.8rem;
+  list-style: none;
+  margin-bottom: 4px;
+}
+.resumedetail-ul-li-i li {
+  margin-bottom: 4px;
+}
+.resume-images-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.resume-images-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.resume-filter-tag {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+/* Specific filter type styles */
+.resume-filter-product {
+  background-color: #e6f7ff;
+  color: #0066cc;
+  border: 2px solid #0066cc;
+}
+
+.resume-filter-service {
+  background-color: #f0f8ff;
+  color: #0047b3;
+  border: 2px solid #0047b3;
+}
+
+.resume-filter-startup {
+  background-color: #f5f5f5;
+  color: #333;
+  border: 2px solid #666;
+}
+
+.resume-filter-finance {
+  background-color: #fff0f0;
+  color: #cc0000;
+  border: 2px solid #cc0000;
+}
+
+.resume-filter-technology {
+  background-color: #f0fff0;
+  color: #008000;
+  border: 2px solid #008000;
+}
+
+.resume-filter-default {
+  background-color: #f8f9fa;
+  color: #495057;
+  border: 2px solid #6c757d;
+}
+/* Add these styles to your existing CSS */
+
+.resume-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.resume-filter-tag,
+.experience-filter-tag {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+/* Responsive adjustments for tags */
+@media (max-width: 768px) {
+  .resume-tags-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .resume-filter-tag,
+  .experience-filter-tag {
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+}

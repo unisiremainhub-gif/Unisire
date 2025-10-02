@@ -1,0 +1,119 @@
+.notfound-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #eef2ff, #f9f9fb);
+    text-align: center;
+    padding: 20px;
+}
+
+.notfound-content {
+    max-width: 500px;
+    background: white;
+    border-radius: 20px;
+    padding: 40px 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    animation: notfound-fade-in 0.8s ease;
+}
+
+/* Floating Ghost Animation */
+.notfound-icon-wrapper {
+    margin: 0 auto 20px;
+    width: fit-content;
+    color: #4361ee;
+    animation: notfound-float 2.5s ease-in-out infinite;
+}
+
+.notfound-title {
+    font-size: 72px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: #293c90;
+    animation: notfound-pop 1s ease;
+}
+
+.notfound-text {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.notfound-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.notfound-btn-primary,
+.notfound-btn-outline {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.notfound-btn-primary {
+    background: #4361ee;
+    color: white;
+    border: none;
+}
+
+.notfound-btn-primary:hover {
+    background: #293c90;
+}
+
+.notfound-btn-outline {
+    border: 1px solid #4361ee;
+    background: transparent;
+    color: #4361ee;
+}
+
+.notfound-btn-outline:hover {
+    background: #4361ee17;
+}
+
+/* Animations */
+@keyframes notfound-fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes notfound-float {
+    0% {
+        transform: translateY(0) rotate(-5deg);
+    }
+
+    50% {
+        transform: translateY(-12px) rotate(5deg);
+    }
+
+    100% {
+        transform: translateY(0) rotate(-5deg);
+    }
+}
+
+@keyframes notfound-pop {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

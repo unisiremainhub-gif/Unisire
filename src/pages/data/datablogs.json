@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "title": "Lovable AI vs Structured Upskilling: What's Best for Your Developer Growth?",
+    "author": "Anshuman Singh",
+    "date": "July 29, 2025",
+    "readTime": "10 min read",
+    "TrendingTag": "true",
+    "category": "Software Development",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "Comparing Learning Approaches for Modern Developers",
+    "excerpt": "Explore the differences between AI-driven learning and traditional structured approaches to developer education.",
+    "likes": 1245,
+    "dislikes": 45,
+    "views": 12500,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In the rapidly evolving world of technology, developers face a constant challenge: how to stay relevant and grow their skills effectively. Two distinct approaches have emerged - the 'Lovable AI' method and traditional structured upskilling. But which one truly delivers results?"
+      },
+      {
+        "type": "heading",
+        "text": "Understanding Lovable AI Learning"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lovable AI refers to adaptive learning systems that personalize content based on your progress, weaknesses, and preferences. These systems use machine learning to create a tailored educational experience that feels more like having a personal tutor than following a rigid curriculum."
+      },
+      {
+        "type": "image",
+        "url": "https://scaler-blog-prod-wp-content.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/11/07131712/Banner-1.jpg",
+        "caption": "AI-generated learning paths adapt to individual progress"
+      },
+      {
+        "type": "table",
+        "data": {
+          "headers": ["Feature", "Lovable AI", "Structured Upskilling"],
+          "rows": [
+            ["Personalization", "High", "Low"],
+            ["Flexibility", "High", "Medium"],
+            ["Structure", "Low", "High"],
+            ["Completion Rate", "85%", "72%"],
+            ["Time to Proficiency", "Faster", "Slower"]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "How AI is Transforming Developer Education",
+    "author": "Priya Sharma",
+    "date": "July 25, 2025",
+    "readTime": "8 min read",
+    "category": "AI",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "The AI Revolution in Learning",
+    "excerpt": "Artificial Intelligence is reshaping how developers learn and acquire new skills through personalized learning paths.",
+    "likes": 876,
+    "dislikes": 32,
+    "views": 8900,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Artificial Intelligence is reshaping how developers learn and acquire new skills. From personalized learning paths to automated code reviews, AI-powered tools are creating more efficient and effective learning experiences."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Future of Structured Learning Paths",
+    "author": "Rahul Verma",
+    "date": "July 20, 2025",
+    "readTime": "12 min read",
+    "category": "Education",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "Evolution of Curriculum-Based Learning",
+    "excerpt": "New methodologies are combining adaptive learning with structured approaches for better outcomes.",
+    "likes": 542,
+    "dislikes": 28,
+    "views": 7200,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "While adaptive learning gains popularity, structured learning paths continue to evolve. New methodologies are combining the best of both worlds - maintaining comprehensive coverage while offering more flexibility."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Building Developer Communities in the AI Era",
+    "author": "Neha Patel",
+    "date": "July 15, 2025",
+    "readTime": "7 min read",
+    "category": "Community",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "Community-Driven Learning",
+    "excerpt": "Discover how AI is enhancing community interactions for better collaborative learning.",
+    "likes": 321,
+    "dislikes": 15,
+    "views": 5400,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Developer communities play a crucial role in professional growth. Discover how AI is enhancing community interactions and creating new opportunities for collaborative learning."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Psychology of Effective Learning for Developers",
+    "author": "Dr. Amit Joshi",
+    "date": "July 10, 2025",
+    "readTime": "15 min read",
+    "category": "Psychology",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "Cognitive Aspects of Skill Acquisition",
+    "excerpt": "Cognitive science insights for optimizing technical skill development.",
+    "likes": 765,
+    "dislikes": 22,
+    "views": 9800,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Understanding how developers learn best can dramatically improve upskilling outcomes. Cognitive science offers valuable insights into optimizing learning processes for technical skills."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Balancing Depth vs Breadth in Technical Learning",
+    "author": "Sanjay Gupta",
+    "date": "July 5, 2025",
+    "readTime": "9 min read",
+    "category": "Learning Strategies",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "The Specialist vs Generalist Dilemma",
+    "excerpt": "Strategies for finding the right balance in your technical learning journey.",
+    "likes": 932,
+    "dislikes": 18,
+    "views": 11200,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Should developers focus deeply on one technology or maintain broad knowledge across many? This article explores strategies for finding the right balance in your learning journey."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Data-Driven Education: Using Analytics to Improve Learning",
+    "author": "Data Science Team",
+    "date": "April 18th, 2025",
+    "readTime": "11 min read",
+    "category": "Data Science",
+    "imageUrl": "https://scaler.com/blog/wp-content/uploads/2025/07/loveable-ai-1.png",
+    "mainHeading": "Optimizing Learning with Data",
+    "excerpt": "How educational institutions are leveraging data analytics to personalize instruction.",
+    "likes": 654,
+    "dislikes": 26,
+    "views": 8300,
+    "userReaction": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "How educational institutions are leveraging data analytics to personalize instruction and improve student outcomes."
+      }
+    ]
+  }
+]

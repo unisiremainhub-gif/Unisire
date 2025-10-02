@@ -1,0 +1,327 @@
+[
+  {
+    "title": "Grok AI - Image Generation",
+    "category": "Image & Design",
+    "points": [
+      "Generates hyper-realistic, lifelike images from text descriptions",
+      "Advanced text-to-image models with enhanced realism",
+      "Perfect for photography, virtual models, and content creation",
+      "User-friendly interface with quick generation times",
+      "Free tier with limited generations, premium plans available"
+    ],
+    "link": "https://x.ai/grok",
+    "image": "https://cdn-icons-png.flaticon.com/512/1828/1828490.png"
+  },
+  {
+    "title": "Midjourney - AI Art Creation",
+    "category": "Image & Design",
+    "points": [
+      "Industry-leading AI art generation with stunning visual quality",
+      "Discord-based interface for community interaction",
+      "Advanced style customization and parameter controls",
+      "Excellent for digital art, concept design, and creative projects",
+      "Subscription-based with free trial options"
+    ],
+    "link": "https://midjourney.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/2779/2779773.png"
+  },
+  {
+    "title": "DALL-E 3 - Advanced Image Creation",
+    "category": "Image & Design",
+    "points": [
+      "OpenAI's most advanced image generation model",
+      "Exceptional understanding of complex prompts",
+      "Integrated with ChatGPT for enhanced creativity",
+      "High-resolution output with commercial usage rights",
+      "Available through ChatGPT Plus subscription"
+    ],
+    "link": "https://openai.com/dall-e-3",
+    "image": "https://cdn-icons-png.flaticon.com/512/6125/6125003.png"
+  },
+  {
+    "title": "ChatGPT - Writing & Research",
+    "category": "Writing & Content",
+    "points": [
+      "Advanced natural language processing for any writing task",
+      "Research assistance, summarization, and content creation",
+      "Code writing and debugging across multiple languages",
+      "File upload capability for document analysis",
+      "Free version available, Plus for advanced features"
+    ],
+    "link": "https://chat.openai.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/1081/1081013.png"
+  },
+  {
+    "title": "Claude AI - Advanced Analysis",
+    "category": "Writing & Content",
+    "points": [
+      "Excellent for long-form content and document analysis",
+      "Large context window for extensive conversations",
+      "Strong reasoning and analytical capabilities",
+      "File upload support for various document types",
+      "Free tier with generous usage limits"
+    ],
+    "link": "https://claude.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134878.png"
+  },
+  {
+    "title": "Grammarly - Writing Assistant",
+    "category": "Writing & Content",
+    "points": [
+      "Real-time grammar, spelling, and punctuation correction",
+      "Tone detection and style suggestions",
+      "Plagiarism checker and citation help",
+      "Browser extension and desktop app integration",
+      "Free basic version, premium for advanced features"
+    ],
+    "link": "https://grammarly.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134898.png"
+  },
+  {
+    "title": "GitHub Copilot - Code Assistant",
+    "category": "Development",
+    "points": [
+      "AI pair programmer that suggests code in real-time",
+      "Supports multiple programming languages and frameworks",
+      "Integrates directly with popular IDEs",
+      "Learns from your code style and preferences",
+      "Free for students, paid for professionals"
+    ],
+    "link": "https://github.com/features/copilot",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733553.png"
+  },
+  {
+    "title": "Replit AI - Web Development",
+    "category": "Development",
+    "points": [
+      "Complete web development environment with AI assistance",
+      "Code generation, explanation, and debugging",
+      "Real-time collaboration and deployment",
+      "Supports full-stack development",
+      "Free tier with basic AI features"
+    ],
+    "link": "https://replit.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134886.png"
+  },
+  {
+    "title": "Tabnine - Code Completion",
+    "category": "Development",
+    "points": [
+      "AI-powered code completion for faster development",
+      "Supports all major programming languages",
+      "Local model option for code privacy",
+      "Learns from your codebase patterns",
+      "Free version available with basic features"
+    ],
+    "link": "https://tabnine.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134894.png"
+  },
+  {
+    "title": "Runway ML - Video Editing",
+    "category": "Video & Media",
+    "points": [
+      "Advanced AI video editing and generation platform",
+      "Text-to-video, object removal, and style transfer",
+      "Green screen and motion tracking features",
+      "Real-time collaboration and cloud rendering",
+      "Free tier with limited credits"
+    ],
+    "link": "https://runwayml.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/3014/3014930.png"
+  },
+  {
+    "title": "Descript - Audio & Video Editing",
+    "category": "Video & Media",
+    "points": [
+      "Edit audio and video by editing text transcripts",
+      "AI voice generation and overdub features",
+      "Screen recording and multi-track editing",
+      "Automatic filler word removal",
+      "Free plan with basic features"
+    ],
+    "link": "https://descript.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/3014/3014931.png"
+  },
+  {
+    "title": "Synthesia - AI Video Creation",
+    "category": "Video & Media",
+    "points": [
+      "Create professional videos with AI avatars",
+      "120+ languages and accents supported",
+      "No camera or recording equipment needed",
+      "Custom avatars and voice cloning available",
+      "Free demo available, paid plans for full access"
+    ],
+    "link": "https://synthesia.io",
+    "image": "https://cdn-icons-png.flaticon.com/512/3014/3014932.png"
+  },
+  {
+    "title": "Gamma - Presentation AI",
+    "category": "Productivity",
+    "points": [
+      "AI-powered presentation and document creation",
+      "Turns ideas into polished presentations instantly",
+      "Smart templates and design suggestions",
+      "Real-time collaboration and analytics",
+      "Free plan with basic features"
+    ],
+    "link": "https://gamma.app",
+    "image": "https://cdn-icons-png.flaticon.com/512/3143/3143643.png"
+  },
+  {
+    "title": "Notion AI - Productivity",
+    "category": "Productivity",
+    "points": [
+      "AI writing assistant integrated within Notion",
+      "Summarize notes, generate ideas, and improve writing",
+      "Task automation and content organization",
+      "Database creation and management",
+      "Free for personal use, AI features require subscription"
+    ],
+    "link": "https://notion.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134892.png"
+  },
+  {
+    "title": "Beautiful.AI - Smart Presentations",
+    "category": "Productivity",
+    "points": [
+      "AI-powered presentation design platform",
+      "Automatic slide formatting and design adjustments",
+      "Smart templates that adapt to your content",
+      "Team collaboration and brand customization",
+      "Free trial available with limited slides"
+    ],
+    "link": "https://beautiful.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/3143/3143644.png"
+  },
+  {
+    "title": "Soundraw - Music Generation",
+    "category": "Audio & Music",
+    "points": [
+      "AI music generator for custom background tracks",
+      "Adjust mood, genre, and instruments easily",
+      "Royalty-free music for content creation",
+      "Unlimited downloads with subscription",
+      "Free plan with limited generations"
+    ],
+    "link": "https://soundraw.io",
+    "image": "https://cdn-icons-png.flaticon.com/512/3312/3312159.png"
+  },
+  {
+    "title": "AIVA - Music Composition",
+    "category": "Audio & Music",
+    "points": [
+      "AI composer for original music creation",
+      "Multiple styles and emotional tones available",
+      "Professional-grade music production",
+      "Customizable length and structure",
+      "Free tier with basic features"
+    ],
+    "link": "https://aiva.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/3312/3312160.png"
+  },
+  {
+    "title": "Boomy - Instant Music",
+    "category": "Audio & Music",
+    "points": [
+      "Create original songs in seconds with AI",
+      "Multiple genres and customization options",
+      "Submit to streaming platforms directly",
+      "Simple interface for beginners",
+      "Free songs per month available"
+    ],
+    "link": "https://boomy.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/3312/3312161.png"
+  },
+  {
+    "title": "Whisper AI - Speech Recognition",
+    "category": "Audio & Music",
+    "points": [
+      "OpenAI's advanced speech recognition system",
+      "Multi-language transcription with high accuracy",
+      "Robust to background noise and accents",
+      "Open-source model available",
+      "Free to use with API access"
+    ],
+    "link": "https://openai.com/research/whisper",
+    "image": "https://cdn-icons-png.flaticon.com/512/1632/1632688.png"
+  },
+  {
+    "title": "Canva AI - Design Suite",
+    "category": "Design & Creative",
+    "points": [
+      "AI-powered design tools within Canva platform",
+      "Magic Write for content generation",
+      "Background removal and image enhancement",
+      "Template suggestions and design automation",
+      "Free plan with basic AI features"
+    ],
+    "link": "https://canva.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134890.png"
+  },
+  {
+    "title": "Adobe Firefly - Creative AI",
+    "category": "Design & Creative",
+    "points": [
+      "Adobe's family of creative generative AI models",
+      "Text-to-image, vector, and template generation",
+      "Integration with Adobe Creative Cloud",
+      "Commercial-safe content generation",
+      "Free tier with limited generations"
+    ],
+    "link": "https://adobe.com/firefly",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134888.png"
+  },
+  {
+    "title": "Copy.ai - Marketing Content",
+    "category": "Marketing",
+    "points": [
+      "AI-powered marketing copy and content generation",
+      "Blog ideas, social media posts, and ad copy",
+      "Multiple tones and brand voice options",
+      "Workflow automation and team collaboration",
+      "Free plan with limited credits"
+    ],
+    "link": "https://copy.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134896.png"
+  },
+  {
+    "title": "Jasper - Business Content",
+    "category": "Marketing",
+    "points": [
+      "AI content platform for businesses and marketers",
+      "Long-form content, emails, and marketing copy",
+      "Brand voice customization and templates",
+      "SEO optimization and plagiarism check",
+      "Free trial available"
+    ],
+    "link": "https://jasper.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134899.png"
+  },
+  {
+    "title": "QuillBot - Paraphrasing Tool",
+    "category": "Writing & Content",
+    "points": [
+      "AI-powered paraphrasing and grammar checking",
+      "Multiple writing modes and tones",
+      "Summarizer and citation generator",
+      "Plagiarism checker integration",
+      "Free version with basic features"
+    ],
+    "link": "https://quillbot.com",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134900.png"
+  },
+  {
+    "title": "Otter.ai - Meeting Assistant",
+    "category": "Productivity",
+    "points": [
+      "AI-powered meeting transcription and notes",
+      "Real-time transcription for live meetings",
+      "Speaker identification and action item tracking",
+      "Integration with Zoom, Teams, and Google Meet",
+      "Free plan with limited transcription time"
+    ],
+    "link": "https://otter.ai",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134901.png"
+  }
+]

@@ -1,0 +1,122 @@
+.playlist-accordion {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.playlist-header {
+  transition: background-color 0.3s ease;
+}
+
+.playlist-header:hover {
+  background-color: #e9e9e9;
+}
+
+.playlist-content {
+  transition: all 0.3s ease;
+  padding: 15px;
+}
+/* 
+.playlist-accordion {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.playlist-accordion:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.playlist-header {
+  transition: all 0.2s ease;
+}
+
+.playlist-header:hover {
+  background-color: #e9e9e9 !important;
+}
+
+.tracking-badge {
+  font-size: 0.8em;
+  background-color: #4caf50;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-left: 8px;
+}
+
+.playlist-content {
+  transition: all 0.3s ease;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.playlist-content.expanded {
+  max-height: 1000px; }
+*/
+.playlist-tracking-main {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 17px;
+  align-items: center;
+  width: 100%;
+}
+
+/**/
+.modal-overlay-resources {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  width: 100%;
+  max-width: 400px;
+  padding: 0 20px;
+}
+
+.modal-overlay-resources-1 {
+  background-color: white;
+  padding: 25px 20px 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.modal-overlay-resources-1-button {
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: #666;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s;
+  align-self: flex-end;
+}
+.playlist-tracking-selector {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #dee2e6;
+  transition: all 0.3s ease;
+}
+
+.needs-read-more {
+  background: none;
+  border: none;
+  color: blue;
+  cursor: pointer;
+  padding: 5px 0;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}

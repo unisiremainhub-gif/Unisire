@@ -1,0 +1,1051 @@
+[
+  {
+    "id": 1,
+    "category": "Web Development",
+    "name": "Frontend Development (Using ReactJS)",
+    "duration": "4–6 months",
+    "rating": "4.7",
+    "completionRate": "78%",
+    "Enrolled": "false",
+    "enrolledby": "4.2k+",
+    "TrendingTag": "true",
+    "view-count": "6.8k+",
+    "description": "Frontend development is the backbone of modern web applications, shaping how users experience and interact with the digital world. In this course, you’ll master HTML, CSS, and JavaScript—the core technologies behind every website—before diving into React, one of the most powerful frameworks for building fast and interactive applications. This roadmap is designed for both beginners and those looking to sharpen their skills with hands-on projects and industry best practices. Every resource has been carefully selected to balance learning with real-world application, ensuring you gain not just knowledge, but confidence. By the end, you’ll have the skills to build production-ready projects, showcase them in your portfolio, and stand out in the job market. With this foundation, nothing will stop you from starting your career as a frontend developer.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "steps": [
+      {
+        "step": 1,
+        "heading": "HTML & CSS",
+        "icon": "1",
+        "paragraphs": [
+          {
+            "paragraph": "Your frontend journey begins here—the absolute foundation of web development. HTML gives structure to your content, while CSS makes it beautiful and engaging. Mastering these two will allow you to build visually appealing, responsive websites that look great on any device."
+          },
+          {
+            "paragraph": "✅ Semantic HTML: Organize and structure web content properly.\n✅ CSS Styling: Control colors, layouts, and visual appeal.\n✅ Responsive Design: Flexbox & Grid for mobile-friendly layouts.\n✅ Modern Practices: Clean, maintainable, industry-ready code."
+          },
+          {
+            "paragraph": "Why Start Here?\n⚡ HTML & CSS power every website you use today.\n🎨 The first step to becoming a frontend developer.\n📱 Build sites that work across all devices.\n🚀 Solid foundation for everything ahead."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "HTML & CSS (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST17MT31325G3a"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "icon": "2",
+        "heading": "Advanced CSS",
+        "paragraphs": [
+          {
+            "paragraph": "Now that you've built a solid foundation with basic HTML and CSS, it's time to take your styling skills to the professional level. This stage is all about efficiency, maintainability, and creating truly impressive visual experiences. You'll discover how modern developers use advanced CSS techniques to build websites faster and with better results. We'll explore powerful tools like Tailwind CSS that can dramatically speed up your workflow, along with professional methodologies that make your code more organized and scalable."
+          },
+          {
+            "paragraph": "✅ Tailwind CSS: Rapidly build modern designs with utility-first classes.\n✅ CSS Animations: Create smooth transitions and micro-interactions.\n✅ BEM Methodology: Write scalable and modular CSS.\n✅ CSS Variables: Dynamically theme your applications."
+          },
+          {
+            "paragraph": "Why Tailwind?\n⚡ Faster development\n🎨 No context-switching between HTML/CSS files\n📱 Built-in responsive design\n🚀 Used by Netflix, Shopify, and more!"
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Tailwind CSS (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/tailwind-from-scratch/?couponCode=MT250929G2"
+                },
+                {
+                  "content": " CSS Animation (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/advanced-css-and-sass/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "icon": "3",
+        "heading": "JavaScript",
+        "paragraphs": [
+          {
+            "paragraph": "Now it’s time to bring your websites to life! JavaScript is what makes pages interactive, dynamic, and truly functional. From animations to fetching real-time data, JS transforms static pages into real applications."
+          },
+          {
+            "paragraph": "✅ Core Concepts: Variables, functions, events, DOM manipulation.\n✅ ES6+ Features: Arrow functions, destructuring, async/await.\n✅ API Handling: Fetch data from REST APIs and work with JSON.\n✅ Debugging: Chrome DevTools & error handling mastery."
+          },
+          {
+            "paragraph": "Why JavaScript?\n⚡ Runs in every browser—no installation needed.\n🎨 Enables animations, popups, and dynamic content.\n📱 Essential for frameworks like React, Angular, Vue.\n🚀 The most popular programming language for web development."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "JavaScript (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?couponCode=ST17MT31325G3"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "icon": "4",
+        "heading": "React JS",
+        "paragraphs": [
+          {
+            "paragraph": "Step into the world of modern frontend! React has redefined UI development with reusable components, a declarative approach, and unmatched speed. This is where you start building apps like professionals at Netflix, Facebook, and Airbnb."
+          },
+          {
+            "paragraph": "✅ Components: Build modular, reusable UI elements.\n✅ Hooks: useState, useEffect, and custom hooks.\n✅ State Management: Context API & Redux Toolkit.\n✅ Projects: Create real-world apps for your portfolio."
+          },
+          {
+            "paragraph": "Why React?\n⚡ Powers apps used by millions daily.\n🎨 Clean, component-based UI building.\n📱 Built-in performance optimizations.\n🚀 One of the top skills employers look for."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "React (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST17MT31325G3"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "icon": "5",
+        "heading": "TypeScript (Optional)",
+        "paragraphs": [
+          {
+            "paragraph": "Ready to code like a pro? TypeScript is JavaScript with superpowers. It adds type safety, better tooling, and makes large projects more maintainable. While optional, it gives you an edge in the job market."
+          },
+          {
+            "paragraph": "✅ Static Typing: Catch bugs before runtime.\n✅ Tooling: Smarter autocompletion and refactoring.\n✅ Adoption: Used by 78% of JS developers in 2023.\n✅ Framework Integration: Works seamlessly with React/Angular."
+          },
+          {
+            "paragraph": "Why TypeScript?\n⚡ Write cleaner, safer code.\n🎨 Perfect for big, scalable projects.\n📱 Preferred by top tech companies.\n🚀 A must-have skill for advanced developers."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "TypeScript+React (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/understanding-typescript/?couponCode=MT250929G2"
+                },
+                {
+                  "content": "TypeScript+Js (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/learn-typescript/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "icon": "6",
+        "heading": "React JS Advanced",
+        "paragraphs": [
+          {
+            "paragraph": "Now that you know React basics, it’s time to level up! Advanced React covers powerful patterns and tools that professional developers use to build production-ready applications."
+          },
+          {
+            "paragraph": "✅ Advanced Hooks: useReducer, useMemo, useCallback.\n✅ Routing: Build single-page apps with React Router.\n✅ Performance: Lazy loading, memoization, code-splitting.\n✅ Scalable Patterns: Folder structures & clean architecture."
+          },
+          {
+            "paragraph": "Why Advanced React?\n⚡ Mastery separates juniors from seniors.\n🎨 Build apps that scale and perform.\n📱 Backbone of modern startups & enterprise apps.\n🚀 Get interview-ready with real-world React skills."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "React (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST17MT31325G3"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/1/6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "icon": "7",
+        "heading": "UI/UX Fundamentals (Optional)",
+        "paragraphs": [
+          {
+            "paragraph": "Great code isn’t enough—design makes products shine. Understanding UI/UX fundamentals helps you create websites that are not just functional but also delightful to use."
+          },
+          {
+            "paragraph": "✅ Visual Design: Color theory, typography, spacing.\n✅ Tools: Figma basics for prototyping & collaboration.\n✅ Accessibility: WCAG guidelines, ARIA labels.\n✅ Developer-Designer Workflow: Communicate effectively."
+          },
+          {
+            "paragraph": "Why UI/UX?\n⚡ Sets you apart from other developers.\n🎨 Users love beautiful, easy-to-use products.\n📱 Accessibility broadens your audience.\n🚀 Employers value devs with design sense."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "UI/UX (Detailed Resorce)",
+                  "link": "https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": "/"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "icon": "8",
+        "heading": "Job Ready!",
+        "paragraphs": [
+          {
+            "paragraph": "You’ve mastered the skills—now it’s time to showcase them! This stage prepares you for the job market, helping you stand out with a strong portfolio, optimized resume, and interview confidence."
+          },
+          {
+            "paragraph": "✅ Portfolio: Highlight 3–4 solid projects.\n✅ Resume: Tailored with React/TypeScript skills.\n✅ LinkedIn: Keyword-rich, recruiter-friendly.\n✅ Interview Prep: Algorithms & problem-solving (LeetCode Easy)."
+          },
+          {
+            "paragraph": "Why Now?\n⚡ You’re skilled, now let the world know!\n🎨 Employers love real projects over just certificates.\n📱 Tech industry is hungry for frontend devs.\n🚀 Open-source contributions make you shine."
+          }
+        ]
+      }
+    ],
+    "finalMessage": {
+      "paragraph": "You’ve reached the finish line of your frontend roadmap, but remember—this is just the beginning of your journey as a developer. By now, you’ve built a solid foundation in HTML, CSS, and JavaScript, explored the power of React, and even touched advanced tools like TypeScript and UI/UX fundamentals. Along the way, you’ve practiced building real projects that reflect what companies look for in professionals.\n\nThe key now is consistency. Keep coding every day, keep building, and don’t shy away from challenges. Real growth happens when you apply your skills to projects, collaborate with others, and share your work publicly. Every line of code you write sharpens your ability, every bug you fix makes you stronger, and every project you finish takes you one step closer to becoming job-ready.\n\nMost importantly—believe in the process. Tech evolves quickly, but the fundamentals you’ve learned here will carry you forward no matter what framework or library comes next. You’re no longer just “learning to code”—you’re preparing to launch your career in frontend development."
+    }
+  },
+  {
+    "id": 2,
+    "category": "Development",
+    "name": "Chrome Extension Development",
+    "duration": "3–5 months",
+    "rating": "4.3",
+    "completionRate": "65%",
+    "Enrolled": "false",
+    "enrolledby": "2.1k+",
+    "TrendingTag": "false",
+    "view-count": "3.7k+",
+    "description": "Chrome extension development puts you directly where users already spend their time — inside the browser. This roadmap takes you from mastering HTML, CSS, and JavaScript fundamentals to creating production-ready browser tools that enhance everyday workflows. You’ll start by building small, practical extensions that solve real problems, then gradually advance to integrating modern frameworks like React for richer interfaces and TypeScript for safer, more maintainable code. Along the way, you’ll also learn essential practices like secure permission design, debugging, performance optimization, and bundling for distribution. By the end, you’ll be confident in designing, publishing, and maintaining Chrome extensions that are reliable, scalable, and user-friendly.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "steps": [
+      {
+        "step": 1,
+        "heading": "HTML & CSS",
+        "icon": "1",
+        "paragraphs": [
+          {
+            "paragraph": "Start by building the UI foundations for extensions: popups, options pages, and injected content. Clean HTML and focused CSS make your extension usable and accessible across different pages."
+          },
+          {
+            "paragraph": "✅ Semantic HTML for extension interfaces\n✅ Popup & options page layout patterns\n✅ Styling injected UIs and content scripts\n✅ Accessibility basics for broader reach"
+          },
+          {
+            "paragraph": "Why HTML & CSS?\n⚡ They make your extension feel polished and reliable.\n🎨 Good UI/UX boosts user adoption and ratings.\n📱 Proper styling prevents conflicts with host pages.\n🚀 A solid UI speeds up future feature development."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/2/1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "heading": "JavaScript for Extensions",
+        "icon": "2",
+        "paragraphs": [
+          {
+            "paragraph": "JavaScript powers extension behavior: content modification, background tasks, and interactions between UI and web pages. Learn the extension runtime and how to work with Chrome’s APIs safely."
+          },
+          {
+            "paragraph": "✅ DOM manipulation for content scripts\n✅ Chrome extension APIs (tabs, storage, alarms, runtime)\n✅ Message passing between popup, background, and content scripts\n✅ State and event-driven extension patterns"
+          },
+          {
+            "paragraph": "Why JavaScript?\n⚡ It’s required to make extensions interactive and useful.\n🎨 Enables automation and dynamic content changes.\n📱 Lets you respond to browser events and user actions.\n🚀 Core skill for every non-trivial extension."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/2/2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "heading": "Build Your First Extension",
+        "icon": "3",
+        "paragraphs": [
+          {
+            "paragraph": "Put fundamentals into practice with small projects like a tab manager or page annotator. These teach manifest configuration, content security policy, permissions, and debugging workflows."
+          },
+          {
+            "paragraph": "✅ manifest.json structure and permission design\n✅ Browser action popups and options pages\n✅ Content scripts that safely modify pages\n✅ Debugging extensions with Chrome DevTools"
+          },
+          {
+            "paragraph": "Why build projects?\n⚡ Projects expose real edge-cases and permission trade-offs.\n🎨 Small apps become portfolio pieces you can demo.\n📱 Debugging experience makes later releases smoother.\n🚀 Hands-on practice cements extension workflows."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/2/3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "heading": "React for Advanced Extensions",
+        "icon": "4",
+        "paragraphs": [
+          {
+            "paragraph": "When UIs get complex, React helps maintain clarity and reusability. Learn integrating React into extension builds, handling communication across contexts, and bundling for the Web Store."
+          },
+          {
+            "paragraph": "✅ Component-driven UI for popups & panels\n✅ Manage local state and persisted storage\n✅ Safe use of hooks in extension contexts\n✅ Build and bundle workflows (webpack/Vite) for extensions"
+          },
+          {
+            "paragraph": "Why React?\n⚡ Speeds development of complex interfaces.\n🎨 Keeps code modular and testable.\n📱 Enables richer user experiences inside extensions.\n🚀 Eases long-term maintenance and scaling."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/2/4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "heading": "TypeScript for Advanced Extensions",
+        "icon": "5",
+        "paragraphs": [
+          {
+            "paragraph": "TypeScript reduces runtime errors and improves developer productivity—especially valuable when an extension interacts with multiple APIs and message channels."
+          },
+          {
+            "paragraph": "✅ Static types for robust API usage\n✅ Clear interfaces for messages and storage schemas\n✅ Better editor tooling and refactoring support\n✅ Safer maintenance for growing codebases"
+          },
+          {
+            "paragraph": "Why TypeScript?\n⚡ Catch issues earlier in development.\n🎨 Improves collaboration and long-term readability.\n📱 Crucial for larger or team-driven extensions.\n🚀 Increases confidence when publishing updates."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/2/5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "heading": "Advanced Extension Development",
+        "icon": "6",
+        "paragraphs": [
+          {
+            "paragraph": "Learn production patterns: authentication, secure storage, integrating external APIs, and optimizing performance so your extension is reliable in real-world use."
+          },
+          {
+            "paragraph": "✅ OAuth & secure authentication flows\n✅ External API integration and rate-limit handling\n✅ Security best practices (CSP, least-privilege permissions)\n✅ Performance optimization and memory management"
+          },
+          {
+            "paragraph": "Why advanced topics?\n⚡ They make your extension trustworthy and scalable.\n🎨 Protect user data and handle edge-cases correctly.\n📱 Ensure smooth behavior across many host pages.\n🚀 Required knowledge for public distribution and growth."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Extension Development (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/chrome-extension/?couponCode=CP130525"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "heading": "Publish & Maintain",
+        "icon": "7",
+        "paragraphs": [
+          {
+            "paragraph": "Prepare your extension for release: assets, privacy policy, store listing, and versioning. Learn how to handle user feedback and monitor runtime errors to keep your extension healthy."
+          },
+          {
+            "paragraph": "✅ Prepare store assets and descriptions\n✅ Chrome Web Store submission & review process\n✅ Release management: updates and versioning\n✅ Monitor analytics and user feedback"
+          },
+          {
+            "paragraph": "Why publish & maintain?\n⚡ Publishing turns your work into a real product.\n🎨 Ongoing updates improve user retention.\n📱 Analytics drive informed improvements.\n🚀 Maintenance is key to long-term success."
+          }
+        ],
+        "buttons": [
+          {
+            "content": "Publishing Checklist",
+            "link": "https://developer.chrome.com/docs/webstore/prepare"
+          },
+          {
+            "content": "Web Store Developer Guide",
+            "link": "https://developer.chrome.com/docs/webstore/publish"
+          }
+        ]
+      },
+      {
+        "step": 8,
+        "heading": "Backend Integration (Optional)",
+        "icon": "8",
+        "paragraphs": [
+          {
+            "paragraph": "If your extension needs server-side features—user accounts, syncing, or heavy processing—learn secure backend integration, cloud functions, and data storage patterns."
+          },
+          {
+            "paragraph": "✅ Connect to backend APIs and databases\n✅ Implement secure authentication and sync\n✅ Use cloud functions for heavy tasks\n✅ Securely handle sensitive data"
+          },
+          {
+            "paragraph": "Why backend integration?\n⚡ Enables synced experiences across devices.\n🎨 Offloads heavy tasks for better performance.\n📱 Adds features like personalization and analytics.\n🚀 Makes commercial and multi-user extensions possible."
+          }
+        ],
+        "buttons": [
+          {
+            "content": "Submit Request",
+            "link": "/community-support?form=request-a-resource"
+          }
+        ]
+      }
+    ],
+    "finalMessage": {
+      "paragraph": "Congratulations — you’ve completed the Chrome Extension Development roadmap. You learned how extensions are structured, how to wire content scripts and background processes, and how to use Chrome’s APIs to build useful features. Through hands-on projects you practiced manifest configuration, secure permission design, debugging with DevTools, and bundling for release.\n\nNow publish and iterate: prepare a clear store listing, follow the submission checklist, and release an initial version to gather real user feedback. Use analytics and reports to prioritize fixes and improvements, and consider cross-browser support to broaden reach. Finally, share your work—open-source your code, write case studies, and demo projects to grow your portfolio and connect with users and employers."
+    }
+  },
+  {
+    "id": 3,
+    "category": "Web Development",
+    "name": "Frontend Development (Using Angular)",
+    "duration": "5–7 months",
+    "rating": "4.6",
+    "completionRate": "71%",
+    "Enrolled": "false",
+    "enrolledby": "3.9k+",
+    "TrendingTag": "true",
+    "view-count": "5.4k+",
+    "description": "Frontend development using Angular teaches you how to build large-scale, maintainable web applications with a framework designed for production. This course covers core web fundamentals (HTML, CSS, JavaScript) and then focuses on Angular’s component-driven architecture, TypeScript-first development, RxJS for reactive programming, and the Angular CLI for robust builds and deployments. You’ll practice forms, routing, dependency injection, and state management (NgRx) through hands-on projects that mirror real-world app requirements. By the end, you’ll be able to design, implement, test, and ship Angular applications that meet industry expectations.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "steps": [
+      {
+        "step": 1,
+        "heading": "HTML & CSS",
+        "icon": "1",
+        "paragraphs": [
+          {
+            "paragraph": "Your frontend journey begins here—the absolute foundation of web development. HTML gives structure to your content, while CSS makes it beautiful and engaging. Mastering these two will allow you to build visually appealing, responsive websites that look great on any device."
+          },
+          {
+            "paragraph": "✅ Semantic HTML: Organize and structure web content properly.\n✅ CSS Styling: Control colors, layouts, and visual appeal.\n✅ Responsive Design: Flexbox & Grid for mobile-friendly layouts.\n✅ Modern Practices: Clean, maintainable, industry-ready code."
+          },
+          {
+            "paragraph": "Why Start Here?\n⚡ HTML & CSS power every website you use today.\n🎨 The first step to becoming a frontend developer.\n📱 Build sites that work across all devices.\n🚀 Solid foundation for everything ahead."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "HTML & CSS (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST17MT31325G3a"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/3/1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "icon": "2",
+        "heading": "Advanced CSS",
+        "paragraphs": [
+          {
+            "paragraph": "Now that you've built a solid foundation with basic HTML and CSS, it's time to take your styling skills to the professional level. This stage is all about efficiency, maintainability, and creating truly impressive visual experiences. You'll discover how modern developers use advanced CSS techniques to build websites faster and with better results. We'll explore powerful tools like Tailwind CSS that can dramatically speed up your workflow, along with professional methodologies that make your code more organized and scalable."
+          },
+          {
+            "paragraph": "✅ Tailwind CSS: Rapidly build modern designs with utility-first classes.\n✅ CSS Animations: Create smooth transitions and micro-interactions.\n✅ BEM Methodology: Write scalable and modular CSS.\n✅ CSS Variables: Dynamically theme your applications."
+          },
+          {
+            "paragraph": "Why Tailwind?\n⚡ Faster development\n🎨 No context-switching between HTML/CSS files\n📱 Built-in responsive design\n🚀 Used by Netflix, Shopify, and more!"
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Tailwind CSS (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/tailwind-from-scratch/?couponCode=MT250929G2"
+                },
+                {
+                  "content": " CSS Animation (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/advanced-css-and-sass/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/3/2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "icon": "3",
+        "heading": "JavaScript",
+        "paragraphs": [
+          {
+            "paragraph": "Now it’s time to bring your websites to life! JavaScript is what makes pages interactive, dynamic, and truly functional. From animations to fetching real-time data, JS transforms static pages into real applications."
+          },
+          {
+            "paragraph": "✅ Core Concepts: Variables, functions, events, DOM manipulation.\n✅ ES6+ Features: Arrow functions, destructuring, async/await.\n✅ API Handling: Fetch data from REST APIs and work with JSON.\n✅ Debugging: Chrome DevTools & error handling mastery."
+          },
+          {
+            "paragraph": "Why JavaScript?\n⚡ Runs in every browser—no installation needed.\n🎨 Enables animations, popups, and dynamic content.\n📱 Essential for frameworks like React, Angular, Vue.\n🚀 The most popular programming language for web development."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "JavaScript (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?couponCode=ST17MT31325G3"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/3/3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "icon": "4",
+        "heading": "TypeScript (Optional)",
+        "paragraphs": [
+          {
+            "paragraph": "Welcome to the world of professional-grade JavaScript development! TypeScript represents the next evolution of JavaScript, adding powerful features that help you write more reliable, maintainable code. While optional, learning TypeScript will give you a significant advantage in the job market and make you a more effective developer. TypeScript introduces static typing, which helps catch errors before they reach your users, and provides better tooling support that makes working on large projects much more manageable. Many major companies and frameworks now use TypeScript as their standard."
+          },
+          {
+            "paragraph": "✅ Static Typing: Catch errors during development.\n✅ Better Tooling: Enhanced autocompletion and refactoring.\n✅ Enterprise Adoption: Used by 78% of JS developers (2023 Stack Overflow Survey).\n✅ React/Angular Integration: Elevates framework development."
+          },
+          {
+            "paragraph": "Why TypeScript?\n⚡ Write cleaner, safer code.\n🎨 Perfect for big, scalable projects.\n📱 Preferred by top tech companies.\n🚀 A must-have skill for advanced developers."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": ""
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/3/4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 5,
+        "icon": "5",
+        "heading": "Angular",
+        "paragraphs": [
+          {
+            "paragraph": "Angular is a full-featured framework ideal for building large, maintainable applications. This stage teaches Angular’s core concepts: components, modules, services, dependency injection, and reactive programming with RxJS. You’ll learn Angular CLI workflows, forms, routing, and testing strategies that help you deliver production-ready apps."
+          },
+          {
+            "paragraph": "✅ Components & Modules: Build modular, reusable UI blocks.\n✅ Dependency Injection & Services: Share logic and data across the app.\n✅ RxJS & Reactive Patterns: Manage async data streams effectively.\n✅ Routing, Forms & Validation: Build multi-page apps with solid UX.\n✅ State Management: NgRx basics for predictable app state.\n✅ CLI & Builds: Scaffold, test, and deploy with Angular CLI."
+          },
+          {
+            "paragraph": "Why Angular?\n⚡ Designed for scalable, enterprise-grade apps\n🎨 Strong TypeScript-first experience for safer code\n📱 Batteries-included tooling (CLI, testing, routing)\n🚀 Preferred by teams building large applications and SPAs"
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Angular (Detailed Resource 1)",
+                  "link": "https://www.udemy.com/course/the-modern-angular-bootcamp/"
+                },
+                {
+                  "content": "Angular (Detailed Resource 2)",
+                  "link": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/3/5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 6,
+        "icon": "6",
+        "heading": "UI/UX Fundamentals (Optional)",
+        "paragraphs": [
+          {
+            "paragraph": "As you progress in your frontend development journey, understanding design principles will set you apart from other developers. This optional but highly valuable section bridges the gap between programming and design. You'll learn how to create interfaces that are not just functional but also intuitive and delightful to use. We'll cover essential design concepts, how to work effectively with designers, and how to implement accessibility best practices. These skills will make you a more well-rounded developer and open up additional career opportunities."
+          },
+          {
+            "paragraph": "✅ Design Principles: Color theory, typography, spacing.\n✅ Figma Basics: Prototyping and developer handoff.\n✅ Accessibility: WCAG guidelines and ARIA labels.\n✅ Dev-Design Collaboration: Communicate effectively with designers."
+          },
+          {
+            "paragraph": "Why UI/UX?\n⚡ Sets you apart from other developers.\n🎨 Users love beautiful, easy-to-use products.\n📱 Accessibility broadens your audience.\n🚀 Employers value devs with design sense."
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "UI/UX (Detailed Resorce)",
+                  "link": "https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "Upcoming",
+                  "link": "/"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 7,
+        "icon": "7",
+        "heading": "Job Ready!",
+        "paragraphs": [
+          {
+            "paragraph": "You’ve reached a pivotal moment—time to present your work and launch your career. This stage focuses on turning your projects into interview-ready portfolio pieces, optimizing your resume and LinkedIn, and practicing the technical and behavioral interviews you’ll face."
+          },
+          {
+            "paragraph": "✅ Portfolio: Showcase 3–4 complete Angular projects with source links.\n✅ Resume: Emphasize Angular, TypeScript, RxJS, and testing experience.\n✅ LinkedIn: Project-focused summary and keywords for recruiters.\n✅ Interview Prep: System design basics, problem-solving, and Angular-specific questions."
+          },
+          {
+            "paragraph": "Why Job Ready?\n⚡ Employers value polished, real-world projects over course certificates\n🎨 Clear projects demonstrate your ability to deliver features end-to-end\n📱 Targeted preparation speeds up hiring and improves fit\n🚀 Open-source and side projects amplify visibility and credibility"
+          }
+        ]
+      }
+    ],
+    "finalMessage": {
+      "paragraph": "Congratulations — you’ve completed the Frontend Development (Using Angular) roadmap. Through this course you learned core web fundamentals and then focused on Angular’s powerful, TypeScript-first approach. You practiced building components, managing state, handling async flows with RxJS, and structuring apps for scale.\n\nNow put it into practice: polish your portfolio projects, publish code and demos, and iterate based on real feedback. Keep learning through small production-focused projects and by contributing to open-source; these steps deepen your skills and make you more visible to employers. You’re ready to start applying your Angular knowledge in real-world apps and interviews—go build something great."
+    }
+  },
+  {
+    "id": 4,
+    "category": "Git",
+    "name": "Git and GitHub",
+    "duration": "1–2 months",
+    "rating": "4.8",
+    "completionRate": "85%",
+    "Enrolled": "false",
+    "enrolledby": "5.2k+",
+    "TrendingTag": "true",
+    "view-count": "7.1k+",
+    "description": "Version control is an essential skill for every developer — Git is the tool, and GitHub is the platform that makes collaboration and project visibility possible. This compact course takes you from installing Git and understanding commits to mastering branches, pull requests, and collaboration workflows on GitHub. You’ll learn best practices for commit messages, resolving merge conflicts, using .gitignore effectively, and leveraging GitHub features like Actions and Pages to automate and publish projects. By the end, you’ll be comfortable using Git in personal projects, team collaborations, and open-source contributions.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "steps": [
+      {
+        "step": 1,
+        "heading": "Learn Git & GitHub",
+        "icon": "1",
+        "paragraphs": [
+          {
+            "paragraph": "First, we teach Git and GitHub from the ground up. You’ll install Git, configure your environment, and learn the essential concepts that make version control reliable and predictable. This section covers commits, branches, merges, remote repositories, and the basic GitHub workflows you need to collaborate effectively."
+          },
+          {
+            "paragraph": "✅ Install & configure Git and GitHub account setup\n✅ Core commands: git init, add, commit, push, pull\n✅ Branching & merging basics\n✅ Create and manage remote repositories on GitHub"
+          },
+          {
+            "paragraph": "Why start here?\n⚡ Build a solid foundation for safe code changes\n🎯 Learn workflows used by teams worldwide\n🤝 Prepare to share and collaborate on projects\n🚀 Essential for modern software development"
+          }
+        ],
+        "buttons": [
+          {
+            "paid": {
+              "buttons": [
+                {
+                  "content": "Git And Github (Detailed Resource)",
+                  "link": "https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/?couponCode=CP130525"
+                }
+              ]
+            }
+          },
+          {
+            "unpaid": {
+              "buttons": [
+                {
+                  "content": "View Resources",
+                  "link": "/resources/roadmaps/4/1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "icon": "2",
+        "heading": "Use Git & GitHub in Your Projects",
+        "paragraphs": [
+          {
+            "paragraph": "Now that you know the basics, apply Git and GitHub directly to your projects. This section shows how to integrate version control into daily development: create feature branches, open pull requests, handle merge conflicts, and use GitHub’s collaboration tools to manage work with teammates or contributors."
+          },
+          {
+            "paragraph": "✅ Create feature branches and open pull requests\n✅ Resolve merge conflicts and use .gitignore effectively\n✅ Use Issues and Projects to track work\n✅ Leverage GitHub Actions for simple CI/CD"
+          },
+          {
+            "paragraph": "Why apply it now?\n⚡ Putting Git into practice makes it second nature\n🤝 Collaboration features accelerate team workflows\n🌍 Using GitHub publicly builds your portfolio\n🚀 Automation and good practices speed up delivery"
+          }
+        ]
+      }
+    ],
+    "finalMessage": {
+      "paragraph": "Congratulations — you’ve completed the Git and GitHub course. You began by learning Git fundamentals and GitHub basics, then moved on to using these tools inside real projects. You now understand how to manage branches, create pull requests, resolve conflicts, and automate workflows with Actions.\n\nKeep applying these skills: publish repositories with clear READMEs, use pull requests for collaboration, and add CI to keep quality high. Contributing to open-source and maintaining a clean commit history will strengthen your portfolio and make your work easier to review. Version control is a daily tool for developers — integrate it into every project and it will become one of your most valuable skills."
+    }
+  },
+  {
+    "id": 5,
+    "category": "Web Development",
+    "name": "Backend Development (MERN)",
+    "duration": "5–8 months",
+    "rating": "4.4",
+    "completionRate": "68%",
+    "Enrolled": "false",
+    "enrolledby": "3.1k+",
+    "TrendingTag": "true",
+    "view-count": "4.9k+",
+    "description": "Master backend development using Node.js, Express.js, and MongoDB — the backbone of modern web applications. This roadmap takes you from core JavaScript and frontend fundamentals all the way to designing and building robust backend services, RESTful APIs, and full-stack MERN applications. Along the way, you’ll learn how to structure scalable servers, work with databases, handle authentication and authorization, and follow clean coding practices used in the industry. The journey includes hands-on projects that simulate real-world challenges, preparing you not just to understand backend concepts but to apply them with confidence. By the end, you’ll be ready to secure APIs, deploy applications, and tackle backend interviews — everything you need to launch a successful career as a backend developer.",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg",
+    "steps": [
+      {
+        "step": 1,
+        "heading": "Start with Frontend Basics (including React)",
+        "icon": "1",
+        "paragraphs": [
+          {
+            "paragraph": "Before jumping into backend work, learn how web apps behave from the client side. Basic frontend skills — HTML, CSS, and a short introduction to React — are necessary for this MERN backend roadmap so you can understand how your APIs will be consumed and tested by real frontends."
+          },
+          {
+            "paragraph": "✅ Semantic HTML and accessible markup\n✅ CSS fundamentals for layout and responsive UIs\n✅ React basics: components, props, and fetching APIs\n✅ How frontends consume HTTP endpoints and handle responses\n✅ Build simple UI stubs to test and demo backend endpoints"
+          },
+          {
+            "paragraph": "Why start here?\n⚡ MERN backends are built to serve React frontends — understanding both sides speeds development.\n🎯 Knowing how components fetch and display data helps you design better APIs.\n🔧 Easier debugging and faster iteration when you can run end-to-end examples.\n🚀 Small frontend tests turn backend features into demoable portfolio pieces."
+          }
+        ],
+        "buttons": [
+          {
+            "content": "View Resources",
+            "link": "/resources/roadmaps/1"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "heading": "Backend (Learning)",
+        "icon": "2",
+        "paragraphs": [
+          {
+            "paragraph": "Start building server-side apps with Node.js and Express. Learn how to create servers, define routes, use middleware, and structure APIs that accept and return JSON — the backbone of modern web services."
+          },
+          {
+            "paragraph": "✅ Node.js fundamentals: runtime, modules, and the event loop\n✅ Express.js: routing, middleware, and request handling\n✅ REST API design and resource modeling\n✅ JSON parsing, error handling, and environment configuration"
+          },
+          {
+            "paragraph": "Why learn this?\n⚡ Node + Express provide fast, flexible server-building tools\n🎯 Clear API design makes integrations predictable and maintainable\n🔧 Middleware and error handling improve reliability\n🚀 This layer powers all data-driven web features"
+          }
+        ],
+        "buttons": [
+          {
+            "content": "View Resources",
+            "link": "/resources/roadmaps/5/2"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "heading": "Backend (Practicing)",
+        "icon": "3",
+        "paragraphs": [
+          {
+            "paragraph": "Apply your knowledge by building real backend services backed by MongoDB. Practice CRUD operations, validation, and authentication so your APIs are secure, testable, and ready to support real applications."
+          },
+          {
+            "paragraph": "✅ MongoDB fundamentals and Mongoose for data modeling\n✅ Connect Express apps to MongoDB and perform CRUD\n✅ Input validation, error handling, and logging\n✅ JWT-based authentication and authorization patterns"
+          },
+          {
+            "paragraph": "Why practice here?\n⚡ Hands-on APIs reveal common edge-cases and security needs\n🎯 Real data models prepare you for production systems\n🔧 Authentication and validation protect user data\n🚀 Projects turn learning into portfolio-ready demonstrations"
+          }
+        ],
+        "buttons": [
+          {
+            "content": "View Resources",
+            "link": "/resources/roadmaps/5/3"
+          }
+        ]
+      },
+      {
+        "step": 4,
+        "heading": "Make Yourself Job Ready!",
+        "icon": "4",
+        "paragraphs": [
+          {
+            "paragraph": "Polish your skills by building full-stack MERN apps, deploying them, and preparing for interviews. Focus on system design basics, CI/CD, and writing clean code that scales — the skills employers expect from backend developers."
+          },
+          {
+            "paragraph": "✅ Build full-stack MERN projects with production-ready features\n✅ Deploy apps using platforms like Render, Railway, or Vercel\n✅ Study system design, API architecture, and performance tuning\n✅ Practice interview problems and showcase projects on GitHub"
+          },
+          {
+            "paragraph": "Why this final push?\n⚡ Deployment and design thinking turn projects into real products\n🎯 Interview preparation bridges skill gaps for hiring\n🔧 CI/CD and monitoring improve stability in production\n🚀 A polished portfolio accelerates hiring opportunities"
+          }
+        ]
+      }
+    ],
+    "finalMessage": {
+      "paragraph": "Congratulations — you’ve completed the Backend Development (MERN) roadmap. You began by building a foundation with frontend and React basics, then moved into creating APIs with Node.js and Express. You practiced connecting MongoDB, handling CRUD operations, implementing authentication, and structuring clean backend projects. Finally, you explored deployment, system design, and interview preparation to get job ready.\n\nKeep applying these skills: build and deploy full-stack MERN apps, refine your API design with best practices, and publish projects that showcase real-world functionality. Contribute to open-source, strengthen your GitHub profile, and practice system design challenges. Backend development is at the core of modern web applications — continue building, iterating, and sharing your work to stand out as a skilled MERN backend developer."
+    }
+  }
+]
