@@ -202,7 +202,7 @@ const Footer = () => {
           ></div>
           <div className="copyright">
             <p className="iconparagraphlh reserved">
-              © 2025 Inskillify. All rights reserved.
+              © 2025 Unisire. All rights reserved.
             </p>
             <p className="iconparagraphlh">
               <Link
