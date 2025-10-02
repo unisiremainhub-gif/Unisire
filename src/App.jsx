@@ -504,6 +504,7 @@ import Layout from "./Layout";
 // ============================================================
 // Main App Component
 // ============================================================
+import ScrollToTop from "./ScrollToTop";
 const App = () => {
   useEffect(() => {
     document.body.style.zoom = "90%";
@@ -511,6 +512,7 @@ const App = () => {
 
   return (
     <Router>
+      <ScrollToTop></ScrollToTop>
       <Routes>
         {/* Auth/Admin - NO LAYOUT */}
         {/* <Route path="/login" element={<Login />} />
