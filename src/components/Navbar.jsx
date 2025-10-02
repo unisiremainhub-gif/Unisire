@@ -779,7 +779,7 @@ const Navbar = () => {
           <div className="freshnav-mobile-inner">
             <div style={{ display: "flex", justifyContent: "space-between" }}>
               <img
-                src="https://uploads-ssl.webflow.com/62259a0fd25200e36c368b9f/6226f2ce0a3889833f400b0a_designership-logo.svg"
+                 src={Logo}
                 alt="logo"
               />
               <button
@@ -1031,3 +1031,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
