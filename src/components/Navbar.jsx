@@ -778,7 +778,7 @@ const Navbar = () => {
         >
           <div className="freshnav-mobile-inner">
             <div style={{ display: "flex", justifyContent: "space-between" }}>
-              <img width={"168px"} height={"40px"} src={Logo} alt="logo" />
+              <img width={"140px"} height={"40px"} src={Logo} alt="logo" />
               <button
                 className="freshnav-toggle"
                 aria-label={mobileOpen ? "Close menu" : "Open menu"}
@@ -1028,5 +1028,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
 
