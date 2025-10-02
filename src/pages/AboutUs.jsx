@@ -82,11 +82,11 @@ const AboutUs = () => {
             setCounts((prev) => ({ ...prev, platforms: value }))
           );
 
-          animateCount(0, 1000, 2500, (value) =>
+          animateCount(0, 2000, 2500, (value) =>
             setCounts((prev) => ({ ...prev, students: value }))
           );
 
-          animateCount(0, 200, 1800, (value) =>
+          animateCount(0, 100, 1800, (value) =>
             setCounts((prev) => ({ ...prev, mentors: value }))
           );
         }
@@ -120,7 +120,7 @@ const AboutUs = () => {
   };
 
   const formatNumber = (num) => {
-    if (num >= 1000) {
+    if (num >= 2000) {
       return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
     return num;
