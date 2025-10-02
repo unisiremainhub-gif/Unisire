@@ -998,6 +998,9 @@
   .footerupper {
     gap: 4rem !important;
   }
+  .im1 {
+    width: 10rem;
+  }
   .footerupper {
     display: grid;
     grid-template-columns: 1fr !important;
