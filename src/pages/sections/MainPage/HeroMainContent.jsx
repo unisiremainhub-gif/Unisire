@@ -43,10 +43,10 @@ const HeroMainContent = () => {
         <div>
           <div className="packagetext-box">
             <h3 className="heading-secondary font">
-              Empowering 1K+ Students with Expert-Crafted Content
+              Empowering 2K+ Students with Expert-Crafted Content
             </h3>
             <p className="icon-paragraph">
-              With over 0K+ students benefiting daily and content designed by 5+
+              With over 2K+ students benefiting daily and content designed by 5+
               experienced Developers, Unisire provides the perfect platform for
               students to learn, grow, and achieve their career goals.
             </p>
