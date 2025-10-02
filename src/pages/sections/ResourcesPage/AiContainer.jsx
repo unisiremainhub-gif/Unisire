@@ -87,8 +87,7 @@ const AiContainer = () => {
               <div
                 key={idx}
                 className="ai-card"
-                onClick={() => window.open(tool.link, "_blank")}
-                style={{ cursor: "pointer" }}
+                style={{ cursor: "default" }} // card not clickable now
               >
                 <img src={tool.image} alt={tool.title} />
                 <div className="ai-right-info">
@@ -106,10 +105,7 @@ const AiContainer = () => {
                   </div>
                   <button
                     className="btn hero-button1 ai-link-button"
-                    onClick={(e) => {
-                      e.stopPropagation(); // Prevent card click event
-                      window.open(tool.link, "_blank");
-                    }}
+                    onClick={() => window.open(tool.link, "_blank")}
                   >
                     Website Link
                   </button>
