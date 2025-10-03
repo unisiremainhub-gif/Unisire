@@ -38,21 +38,32 @@ function HeroUpper() {
     });
   }, []);
 
+  // const scrollToSection = () => {
+  //   setTimeout(() => {
+  //     const section = document.getElementById("company-logos");
+  //     if (section) {
+  //       section.scrollIntoView({ behavior: "smooth" });
+  //     } else {
+  //       console.error("Section with ID 'company-logos' not found.");
+  //     }
+  //   }, 100); // Small delay ensures DOM is ready
+  // };
+
   const scrollToSection = () => {
-    setTimeout(() => {
-      const section = document.getElementById("company-logos");
-      if (section) {
-        section.scrollIntoView({ behavior: "smooth" });
-      } else {
-        console.error("Section with ID 'company-logos' not found.");
-      }
-    }, 100); // Small delay ensures DOM is ready
+    const currentSection = document.getElementById("new"); // HeroUpper section
+    if (currentSection && currentSection.nextElementSibling) {
+      const nextSection = currentSection.nextElementSibling;
+      const yOffset = -70; // navbar height
+      const y =
+        nextSection.getBoundingClientRect().top + window.pageYOffset + yOffset;
+      window.scrollTo({ top: y, behavior: "smooth" });
+    }
   };
 
   const navigate = useNavigate();
 
   const goToResourcesPage = () => {
-    navigate("/resources/courses"); // Navigates to the "/resources" page
+    navigate("/resources/"); // Navigates to the "/resources" page
   };
 
   return (
