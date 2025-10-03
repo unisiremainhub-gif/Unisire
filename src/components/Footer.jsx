@@ -57,6 +57,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Discord"
+                    style={{ pointerEvents: "none" }}
                   >
                     <FaDiscord />
                   </a>
@@ -65,6 +66,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
+                    style={{ pointerEvents: "none" }}
                   >
                     <FaLinkedin />
                   </a>
@@ -73,6 +75,7 @@ const Footer = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Facebook"
+                    style={{ pointerEvents: "none" }}
                   >
                     <FaFacebook />
                   </a>
